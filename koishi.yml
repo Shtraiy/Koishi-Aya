@@ -40,6 +40,7 @@ plugins:
       path: /foo
       gocqhttp:
         enabled: true
+        password: password1234
     ~adapter-discord: {}
     ~adapter-telegram: {}
     ~adapter-kook: {}
@@ -47,3 +48,9 @@ plugins:
     gocqhttp:
       password: password1234
       enabled: true
+  echo:dtgmc7:
+    $filter: {}
+  respondent:dd4k58:
+    rules:
+      - match: 傻逼
+        reply: 你才傻逼

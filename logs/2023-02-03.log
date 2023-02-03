@@ -323,3 +323,19 @@
 [38;5;8m2023-02-03 18:00:31[0m [W] [38;5;32;1mgocqhttp[0m 虚拟设备信息不存在, 将自动生成随机设备. 
 [38;5;8m2023-02-03 18:00:45[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
 [38;5;8m2023-02-03 18:00:47[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 18:04:14[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 18:04:14[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-03 18:04:16[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 18:05:13[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:05:13[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:05:14[0m [I] [38;5;178;1mmarket[0m added 1 package in 1s
+[38;5;8m2023-02-03 18:05:14[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:05:14[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:06:11[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:06:11[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:06:11[0m [I] [38;5;178;1mmarket[0m added 1 package in 1s
+[38;5;8m2023-02-03 18:06:11[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:06:11[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:06:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 18:07:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-03 18:08:10[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m

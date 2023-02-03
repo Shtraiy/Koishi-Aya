@@ -61,6 +61,7 @@
     "@koishijs/plugin-console": "^5.2.1",
     "@koishijs/plugin-database-sqlite": "^3.2.3",
     "@koishijs/plugin-dataview": "^2.2.0",
+    "@koishijs/plugin-echo": "2.0.6",
     "@koishijs/plugin-help": "^2.0.2",
     "@koishijs/plugin-insight": "^3.3.0",
     "@koishijs/plugin-locales": "^2.1.1",
@@ -73,6 +74,7 @@
     "koishi-plugin-assets-local": "^3.0.1",
     "koishi-plugin-desktop": "^0.0.3",
     "koishi-plugin-gocqhttp": "^3.3.1",
-    "koishi-plugin-puppeteer": "^3.4.0"
+    "koishi-plugin-puppeteer": "^3.4.0",
+    "koishi-plugin-respondent": "6.0.0"
   }
 }
