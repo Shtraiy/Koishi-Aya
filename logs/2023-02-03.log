@@ -339,3 +339,271 @@
 [38;5;8m2023-02-03 18:06:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
 [38;5;8m2023-02-03 18:07:14[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
 [38;5;8m2023-02-03 18:08:10[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 18:26:00[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:26:00[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:26:01[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 18:26:01[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:26:01[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:26:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-03 18:26:39[0m [I] [38;5;209;1msqlite[0m auto updating table [38;5;209mchannel[0m
+[38;5;8m2023-02-03 18:26:39[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mmarry_data_v2[0m
+[38;5;8m2023-02-03 18:28:44[0m [W] [38;5;78;1mapp[0m TypeError: this.setMemberList is not a function
+                            at Session2.onMemberUpdate (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-marry\lib\couple.js:80:18)
+                            at Lifecycle.emit (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:99:16)
+                            at Context.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:617:31)
+                            at OneBotBot.dispatch (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:217:20)
+                            at dispatchSession (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:360:7)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-02-03 18:31:01[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-03 18:31:45[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-03 18:32:58[0m [W] [38;5;129;1msession[0m TypeError: Cannot read properties of undefined (reading 'startsWith')
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\plugin-sandbox\lib\index.js:42:22
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\element\lib\index.cjs:309:24
+                            at Array.map (<anonymous>)
+                            at transformAsync (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\element\lib\index.cjs:304:50)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\element\lib\index.cjs:312:45
+                            at Array.map (<anonymous>)
+                            at Function.transformAsync (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\element\lib\index.cjs:304:50)
+                            at SandboxMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\plugin-sandbox\lib\index.js:52:43)
+                            at SandboxMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:16)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-02-03 18:35:18[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:35:18[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:35:19[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 18:35:19[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:35:19[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:35:28[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-03 18:35:28[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mdialogue[0m
+[38;5;8m2023-02-03 18:36:22[0m [W] [38;5;209;1msqlite[0m > UPDATE `user` SET `authority` = 2,`usage` = '{}',`timers` = '{}',`lastCall` = NaN WHERE `id` = 11
+[38;5;8m2023-02-03 18:38:30[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-03 18:40:06[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:40:06[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:40:07[0m [I] [38;5;178;1mmarket[0m added 17 packages in 2s
+[38;5;8m2023-02-03 18:40:07[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:40:07[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:40:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-03 18:40:39[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-03 18:40:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-03 18:42:24[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:42:24[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:42:25[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:42:25[0m [I] [38;5;178;1mmarket[0m added 6 packages in 2s
+[38;5;8m2023-02-03 18:42:25[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:43:59[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:43:59[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:43:59[0m [I] [38;5;178;1mmarket[0m added 1 package in 1s
+[38;5;8m2023-02-03 18:43:59[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:43:59[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:44:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-03 18:46:47[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:46:47[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:46:48[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 18:46:48[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:46:48[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:47:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-03 18:48:22[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:48:22[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:48:22[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 18:48:22[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:48:22[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:48:25[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcron:hy97h7[0m
+[38;5;8m2023-02-03 18:50:12[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:50:12[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:50:12[0m [I] [38;5;178;1mmarket[0m removed 1 package in 1s
+[38;5;8m2023-02-03 18:50:12[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:50:12[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:50:16[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 18:50:16[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 18:50:17[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 18:50:17[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 18:50:17[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 18:51:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-03 18:51:21[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mschedule[0m
+[38;5;8m2023-02-03 19:25:04[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mcron:hy97h7[0m
+[38;5;8m2023-02-03 19:33:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-03 19:57:45[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 19:57:45[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 19:57:45[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 19:57:45[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 19:57:45[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 19:59:01[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 19:59:01[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 19:59:01[0m [I] [38;5;178;1mmarket[0m added 1 package in 1s
+[38;5;8m2023-02-03 19:59:01[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 19:59:01[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 19:59:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-03 20:02:31[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 20:02:31[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 20:02:31[0m [I] [38;5;178;1mmarket[0m added 6 packages in 2s
+[38;5;8m2023-02-03 20:02:31[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 20:02:31[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 20:03:21[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-03 20:06:36[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 20:06:36[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 20:06:37[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 20:06:37[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 20:06:37[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 20:06:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mauth:94nz9q[0m
+[38;5;8m2023-02-03 20:06:44[0m [I] [38;5;209;1msqlite[0m auto updating table [38;5;209muser[0m
+[38;5;8m2023-02-03 20:07:35[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` bycjgyrf WHERE `Aya` = 'sadf'
+[38;5;8m2023-02-03 20:08:22[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` idbrxurz WHERE `Aya` = 'sadf'
+[38;5;8m2023-02-03 20:08:44[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` zjtbcdhi WHERE `idbrxurz` = 'sadf'
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-03 20:10:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-03 20:10:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-03 20:10:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-03 20:10:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-03 20:10:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-03 20:10:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-03 20:10:08[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 20:10:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mauth:94nz9q[0m
+[38;5;8m2023-02-03 20:10:08[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-03 20:10:08[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-03 20:10:10[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 20:10:30[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` xmymjhat WHERE `idbrxurz` = 'sadf'
+[38;5;8m2023-02-03 20:10:39[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` drpofvlc WHERE `1` = '1'
+[38;5;8m2023-02-03 20:12:18[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` rvbjyzxl WHERE `Aya` = '2419269719'
+[38;5;8m2023-02-03 20:12:27[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` xfxumqtj WHERE `Aya` = 'Aya'
+[38;5;8m2023-02-03 20:13:06[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` wwvrqazm WHERE `Aya` = 'xfxumqtj'
+[38;5;8m2023-02-03 20:13:16[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` ixztpegj WHERE `2419269719` = 'xfxumqtj'
+[38;5;8m2023-02-03 20:18:55[0m [W] [38;5;209;1msqlite[0m > SELECT `id`, `name` FROM `user` gqjfokre WHERE `2419269719` = 'xfxumqtj'
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 20:22:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mauth:94nz9q[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 20:23:00[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-03 20:23:00[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-03 20:23:03[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-03 20:24:18[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-03 20:24:19[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-03 20:24:21[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 20:25:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbind[0m
+[38;5;8m2023-02-03 20:27:17[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 20:27:17[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 20:27:18[0m [I] [38;5;178;1mmarket[0m added 3 packages, and removed 1 package in 2s
+[38;5;8m2023-02-03 20:27:18[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 20:27:18[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 20:27:32[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 20:27:32[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 20:27:33[0m [I] [38;5;178;1mmarket[0m added 2 packages in 2s
+[38;5;8m2023-02-03 20:27:33[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 20:27:33[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 20:27:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-03 20:28:20[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-03 20:31:27[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:31:43[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:32:20[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 20:32:20[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 20:32:20[0m [I] [38;5;178;1mmarket[0m added 2 packages in 2s
+[38;5;8m2023-02-03 20:32:20[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 20:32:20[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 20:33:01[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:33:25[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:33:40[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:37:48[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:38:20[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:38:20[0m [W] [38;5;78;1mapp[0m SyntaxError: Invalid regular expression: /?笨蛋:傻子/: Nothing to repeat
+                            at new RegExp (<anonymous>)
+                            at Object.apply (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-respondent\lib\index.js:18:39)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:414:40
+                            at MainScope.ensure (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:256:18)
+                            at MainScope.apply (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:414:14)
+                            at MainScope.start (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:474:12)
+                            at MainScope.restart (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:234:10)
+                            at ForkScope.update (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:397:13)
+                            at NodeLoader.reloadPlugin (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\loader\lib\shared.js:119:12)
+                            at ConfigWriter.reload (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\plugin-market\lib\shared\index.js:229:23)
+[38;5;8m2023-02-03 20:40:58[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:41:25[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:43:05[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m

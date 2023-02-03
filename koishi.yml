@@ -8,8 +8,8 @@ plugins:
     rate-limit: {}
     locales: {}
     commands: {}
-    ~admin: {}
-    ~bind: {}
+    admin: {}
+    bind: {}
   group:console:
     analytics: {}
     console:
@@ -52,5 +52,34 @@ plugins:
     $filter: {}
   respondent:dd4k58:
     rules:
-      - match: 傻逼
-        reply: 你才傻逼
+      - match: 笨蛋
+        reply: Aya才不是笨蛋！你才是笨蛋！
+        regexp: true
+      - match: '@Aya'
+        reply: 艾特我干嘛
+        regexp: true
+  marry:sogxm4:
+    excludedUsers:
+      - platform: onebot
+        id: '2419269719'
+        note: 主人
+    keyword:
+      - 今日老婆
+      - 到谁当星怒了
+  dialogue:s3gba3:
+    authority:
+      base: 0
+      admin: 0
+      writer: 0
+      regExp: 0
+      frozen: 0
+      context: 0
+  epic-get-free-game:390sgh: {}
+  puppeteer:lnylzt: {}
+  ~steaminfo:uh0vvu: {}
+  shici-word:dc6bqa: {}
+  crazy-thursday:l2iz3n: {}
+  schedule:higxep: {}
+  broadcast:mnsola: {}
+  rryth:6zt2o5: {}
+  rr-translator:2ids1s: {}
