@@ -607,3 +607,250 @@
 [38;5;8m2023-02-03 20:40:58[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
 [38;5;8m2023-02-03 20:41:25[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
 [38;5;8m2023-02-03 20:43:05[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:45:00[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:46:03[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:46:35[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:56:01[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:56:30[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:56:41[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:56:58[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:57:56[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:58:38[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 20:59:37[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 21:01:26[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 21:01:42[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 21:14:26[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 21:19:49[0m [W] [38;5;215;1mcommand[0m help teach
+                        TypeError: Cannot read properties of undefined (reading '0')
+                            at cheatSheet (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:355:35)
+                            at _Command._usage (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:415:173)
+                            at showHelp (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\plugin-help\lib\index.js:249:85)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-02-03 21:22:28[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 21:39:58[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 21:39:58[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 21:39:59[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 21:39:59[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 21:39:59[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 21:40:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-03 21:40:34[0m [I] [38;5;209;1msqlite[0m auto updating table [38;5;209muser[0m
+[38;5;8m2023-02-03 21:42:24[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 21:42:24[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 21:42:25[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 21:42:25[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 21:42:25[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 21:42:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-03 21:42:34[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mwho-at-me[0m
+[38;5;8m2023-02-03 21:49:07[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 21:49:07[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 21:49:08[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 21:49:08[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 21:49:08[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 21:49:13[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mpuzzle[0m
+[38;5;8m2023-02-03 21:49:13[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuzzle:2izz05[0m
+[38;5;8m2023-02-03 21:49:28[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> panic on decoder MultiMsg.ApplyDown : runtime error: index out of range [0] with length 0
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug.Stack()
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m goroutine 2321 [running]:
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug/stack.go:24 +0x65
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m panic({0x85cee0, 0xc0004000a8})
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m runtime/panic.go:884 +0x212
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:335 +0x65
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.decodeMultiApplyDownResponse(0xc000428140?, 0x49?, {0xc000428140, 0x49, 0x49})
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/multimsg.go:108 +0x9c5
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc000490730)
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:346 +0x1c7
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+[38;5;8m2023-02-03 21:49:28[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:332 +0x4cd
+[38;5;8m2023-02-03 21:49:28[0m [E] [38;5;32;1mgocqhttp[0m 出现错误 packet decode error: MultiMsg.ApplyDown - runtime error: index out of range [0] with length 0. 详细信息已转储至文件 dumps/1675432168.dump 请连同日志提交给开发者处理
+[38;5;8m2023-02-03 21:51:23[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mpuzzle:2izz05[0m
+[38;5;8m2023-02-03 21:58:32[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 21:58:32[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 21:58:33[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 21:58:33[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 21:58:33[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 21:58:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78malipay-voice:rh3xhz[0m
+[38;5;8m2023-02-03 21:59:11[0m [W] [38;5;32;1mgocqhttp[0m 转换CQ码 ({"type":"record","data":{"file":"https://mm.cqu.cc/share/zhifubaodaozhang/mp3/73.mp3"}}) 到MiraiGo Element时出现错误: encode silk failed: convert pcm file error: exec: "ffmpeg": executable file not found in %PATH% 将忽略本段CQ码. 
+[38;5;8m2023-02-03 21:59:11[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 消息为空.
+[38;5;8m2023-02-03 21:59:11[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"729417176","message":[{"type":"record","data":{"file":"https://mm.cqu.cc/share/zhifubaodaozhang/mp3/73.mp3"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2152:7
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-03 21:59:25[0m [W] [38;5;32;1mgocqhttp[0m 转换CQ码 ({"type":"record","data":{"file":"https://mm.cqu.cc/share/zhifubaodaozhang/mp3/1000.mp3"}}) 到MiraiGo Element时出现错误: encode silk failed: convert pcm file error: exec: "ffmpeg": executable file not found in %PATH% 将忽略本段CQ码.
+[38;5;8m2023-02-03 21:59:25[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 消息为空.
+[38;5;8m2023-02-03 21:59:25[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"729417176","message":[{"type":"record","data":{"file":"https://mm.cqu.cc/share/zhifubaodaozhang/mp3/1000.mp3"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2152:7
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-03 21:59:59[0m [W] [38;5;32;1mgocqhttp[0m 转换CQ码 ({"type":"record","data":{"file":"https://mm.cqu.cc/share/zhifubaodaozhang/mp3/122.mp3"}}) 到MiraiGo Element时出现错误: encode silk failed: convert pcm file error: exec: "ffmpeg": executable file not found in %PATH% 将忽略本段CQ码.
+[38;5;8m2023-02-03 21:59:59[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"729417176","message":[{"type":"record","data":{"file":"https://mm.cqu.cc/share/zhifubaodaozhang/mp3/122.mp3"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2152:7
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-03 21:59:59[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 消息为空.
+[38;5;8m2023-02-03 22:00:38[0m [W] [38;5;32;1mgocqhttp[0m 转换CQ码 ({"type":"record","data":{"file":"https://mm.cqu.cc/share/zhifubaodaozhang/mp3/122.mp3"}}) 到MiraiGo Element时出现错误: encode silk failed: convert pcm file error: exec: "ffmpeg": executable file not found in %PATH% 将忽略本段CQ码.
+[38;5;8m2023-02-03 22:00:38[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"729417176","message":[{"type":"record","data":{"file":"https://mm.cqu.cc/share/zhifubaodaozhang/mp3/122.mp3"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2152:7
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-03 22:00:38[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 消息为空.
+[38;5;8m2023-02-03 22:00:48[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78malipay-voice:rh3xhz[0m
+[38;5;8m2023-02-03 22:02:04[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 22:02:04[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 22:02:05[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 22:02:05[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 22:02:05[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 22:02:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-03 22:02:39[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 22:02:39[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 22:02:40[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 22:02:40[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 22:02:40[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 22:02:43[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-03 22:02:52[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 22:02:52[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 22:02:53[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 22:02:53[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 22:02:53[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 22:02:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-03 22:03:16[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 22:03:16[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 22:03:16[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 22:03:16[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 22:03:16[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 22:03:19[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgenshin-voice:ke9oi4[0m
+[38;5;8m2023-02-03 22:04:05[0m [W] [38;5;32;1mgocqhttp[0m 转换CQ码 ({"type":"record","data":{"file":"base64://UklGRjK8AwBXQVZFZm10IBIAAAADAAEAgLsAAADuAgAEACAAAABmYWN0BAAAAADvAABkYXRhALwDACIX8jlK0Cc4HADkOaSyfLmaUyw60AChubZERTo9wdu50B5WOiM5HrrUo5Q6mCJFuj6ngzp9fBO6DO9YOmuTC7pJDFo67Yv9ud7ZJTr7tci5kbs1OmESt7nvFFQ6T+wCulu8SzrfJvu5iCtMOgRYwbkCXlA6kgDcuejNFDq3tG65pA42OmGTALrDwjw6LKCWuSfDDjrxv9a48K/ROUCpQDjoxbY5iS7juUFmKzqJzsm5ut1KOqKd37n/a0w6YPN9umHJjDpJxs65+Q7wOaOYDblEqxk6ZE6muXhJLjoHyMi5MxAAOveAkbmwsA86dHmhtcu6dTmSeBk5NU9bOedtijnyTYk5LKhYOHMPlzn1s0E4cemtOfHeVbmh+uE5Ck9AuOyKBTq2sMu5mTcXOtEhsLkjjh46PpNZuRcZHTo/nzC6TRJfOjaLmLmQ1Aw6bISXueHFTjo0ixu6Uh6KOlqFdLrX6m46m9fyuahVEjpxfnE4FH2uOZc+GLeq2Ow5YWqquZubNjrlVfC5prgOOtK2mLlq8/o5vKM0uAAK8jlaz4u5as9TOrbbGbpiBnE63P5GumbfVzpYUNe5TGoOOkxTMbmVORM6/VnAuflqQDqbkuG5IYZaOrqiNLryF4U6gLBAup60czqrMrq5fCoaOpQLkLm2O9I5nTSEuKxh0DmdwEi4t8UeOk9Egbk9pxg6lTCguVK6nTl8+Yq3e3KjOca/e7h4h/45q9+IudtwJzqEdtK56NSMOgxiJ7po5746BlZDukSnnDreAkW5tSeXOj1WZbma2nw6HF+puRwvVToVMgm51tFSOmBY6bngIU863fHHuB46B...
+[38;5;8m2023-02-03 22:04:05[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"729417176","message":[{"type":"record","data":{"file":"base64://UklGRjK8AwBXQVZFZm10IBIAAAADAAEAgLsAAADuAgAEACAAAABmYWN0BAAAAADvAABkYXRhALwDACIX8jlK0Cc4HADkOaSyfLmaUyw60AChubZERTo9wdu50B5WOiM5HrrUo5Q6mCJFuj6ngzp9fBO6DO9YOmuTC7pJDFo67Yv9ud7ZJTr7tci5kbs1OmESt7nvFFQ6T+wCulu8SzrfJvu5iCtMOgRYwbkCXlA6kgDcuejNFDq3tG65pA42OmGTALrDwjw6LKCWuSfDDjrxv9a48K/ROUCpQDjoxbY5iS7juUFmKzqJzsm5ut1KOqKd37n/a0w6YPN9umHJjDpJxs65+Q7wOaOYDblEqxk6ZE6muXhJLjoHyMi5MxAAOveAkbmwsA86dHmhtcu6dTmSeBk5NU9bOedtijnyTYk5LKhYOHMPlzn1s0E4cemtOfHeVbmh+uE5Ck9AuOyKBTq2sMu5mTcXOtEhsLkjjh46PpNZuRcZHTo/nzC6TRJfOjaLmLmQ1Aw6bISXueHFTjo0ixu6Uh6KOlqFdLrX6m46m9fyuahVEjpxfnE4FH2uOZc+GLeq2Ow5YWqquZubNjrlVfC5prgOOtK2mLlq8/o5vKM0uAAK8jlaz4u5as9TOrbbGbpiBnE63P5GumbfVzpYUNe5TGoOOkxTMbmVORM6/VnAuflqQDqbkuG5IYZaOrqiNLryF4U6gLBAup60czqrMrq5fCoaOpQLkLm2O9I5nTSEuKxh0DmdwEi4t8UeOk9Egbk9pxg6lTCguVK6nTl8+Yq3e3KjOca/e7h4h/45q9+IudtwJzqEdtK56NSMOgxiJ7po5...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2152:7
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-03 22:04:05[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 消息为空.
+[38;5;8m2023-02-03 22:05:52[0m [W] [38;5;32;1mgocqhttp[0m 转换CQ码 ({"type":"record","data":{"file":"base64://UklGRjKIAwBXQVZFZm10IBIAAAADAAEAgLsAAADuAgAEACAAAABmYWN0BAAAAADiAABkYXRhAIgDANVAODrrpKm57KsmOm7i9bndGUY617YBuloQLDqGtda5ZpgyOo9bAbrEt2I67MM3upn2XTrXLxW6sQtyOv0AQbqut1Y6td21uQX6GDqdh7e5LEQfOpVF57lG5Fo68GsmusxyPDpfyv25FJguOnR4zbmisk86VvIJuusOHzp+2gS6Gw9lOrNZSbrQoFk65WXouR1XIDoQ9Iq5fVktOvVEAbpkJXY6cJgouk/6azpQawW62kZGOuLF4bnt2Rs6M1bouXg3QzrtFRS6qF5TOu6U1rnLgEk6TRYaunHOhDobACW67QhcOqYDG7odtyY6/OSUuYEV6jm1XvY170l6OVfzVjiZ4hI5JeryuEa2oTmF1wu4cfgaOgz0WLkRwpQ5YKE8uKMQ9zmrtau4bQIXOiag/blRHEw6bmUduvarUDpZELK5CDAVOuRjE7kpm9M5addbuUgKAjp0qqy5oEouOksLLLkDad852EMBt0cMcjnqvRk50+T5OCh8IzmYy4k5/+azt1AQGTqiy6C50EsdOlXhJ7ncqSQ5pm3NOY/p9Dhqqzg5nZXfOVJdRbnaHQc6TOCuudrWODrKxci5JMUjOo52c7kNFBc61Z0oN+CCkTlc9CK4w8gBOpXfbLnqn0s68lequTnR2Dl9It83i20+OXsNhTlAAW05sWUmObL6pjlFIu642Q3qOaNQnbgds+w565GZuNW04DkWwPs4kKphOZt/ardnhfY5fjmSue4KXDp+yt652JBVOpC/krnpBw06yIYYuZJz/DlmjHc4euOWOZMVB7jd6KU5dyA6uQ/qcDoJEw26g+l0Ot1DBbp0LwA6mE2AuZA11...
+[38;5;8m2023-02-03 22:05:52[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"729417176","message":[{"type":"record","data":{"file":"base64://UklGRjKIAwBXQVZFZm10IBIAAAADAAEAgLsAAADuAgAEACAAAABmYWN0BAAAAADiAABkYXRhAIgDANVAODrrpKm57KsmOm7i9bndGUY617YBuloQLDqGtda5ZpgyOo9bAbrEt2I67MM3upn2XTrXLxW6sQtyOv0AQbqut1Y6td21uQX6GDqdh7e5LEQfOpVF57lG5Fo68GsmusxyPDpfyv25FJguOnR4zbmisk86VvIJuusOHzp+2gS6Gw9lOrNZSbrQoFk65WXouR1XIDoQ9Iq5fVktOvVEAbpkJXY6cJgouk/6azpQawW62kZGOuLF4bnt2Rs6M1bouXg3QzrtFRS6qF5TOu6U1rnLgEk6TRYaunHOhDobACW67QhcOqYDG7odtyY6/OSUuYEV6jm1XvY170l6OVfzVjiZ4hI5JeryuEa2oTmF1wu4cfgaOgz0WLkRwpQ5YKE8uKMQ9zmrtau4bQIXOiag/blRHEw6bmUduvarUDpZELK5CDAVOuRjE7kpm9M5addbuUgKAjp0qqy5oEouOksLLLkDad852EMBt0cMcjnqvRk50+T5OCh8IzmYy4k5/+azt1AQGTqiy6C50EsdOlXhJ7ncqSQ5pm3NOY/p9Dhqqzg5nZXfOVJdRbnaHQc6TOCuudrWODrKxci5JMUjOo52c7kNFBc61Z0oN+CCkTlc9CK4w8gBOpXfbLnqn0s68lequTnR2Dl9It83i20+OXsNhTlAAW05sWUmObL6pjlFIu642Q3qOaNQnbgds+w565GZuNW04DkWwPs4kKphOZt/ardnhfY5fjmSue4KXDp+yt652JBVOpC/krnpB...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2152:7
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-03 22:05:52[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 消息为空.
+[38;5;8m2023-02-03 22:07:55[0m [W] [38;5;32;1mgocqhttp[0m 转换CQ码 ({"type":"record","data":{"file":"base64://UklGRjJkBABXQVZFZm10IBIAAAADAAEAgLsAAADuAgAEACAAAABmYWN0BAAAAAAZAQBkYXRhAGQEAKNL+jmov/s3DsYDOjJCk7ns+kA6jcO0ufe4WDo81uG5BWhZOtlSD7pXtJk6yotCunpchzptvAq6L1hWOusxBLpe8Fo6pvr5uQzhNDr5NdW5pR9COkqFs7ngm106tLEDupv6VToT2PK55ydROpxTwLkRAlw6fPXbuYlkHzp8y4W5Vh1AOugz9bl2UkE65WaluXN4JjqScXK5/EAWOln9uribf+g5PXcVuun2RDpI1+u5b3ZSOlyi47l6k0E6DQSAusKMljrTj/G5QWPvObDcMrm7JBk6SlXEuS0LQTqDIhi6wyVGOu9QDrrE2Es63mZJueZb6zmaDeS4sDLtOc1YSDeb9Ac6WcF3t0iGsjnU4gi3SJTPOfKsmrmRXiM6/PuUuarXRDpIOha6VgxdOmHGHLox1Ec6bheEucqGFDqDOiG6TlpxOmQm1Lm+ax865V2Yuf7JXTp1Wje6t16VOrRddrrAr2Q6uqgLuk/LNjo6Vyq4iIj1OWT+nrhJmwc6CZRXuXMjKjrgxgq6510oOhvi1bmCZis6loFRufcmIjrBbdO54OpxOpeANrqP94U60D9Kul2jRTqG4Lm5CK/+OUAB87i3QTU6u04HuhaMWDq9DgK6gslvOvyRILqPXX86vZZiuvVrjzrmwgy6ojJbOjYT+7mKReI5DuYntw/ylTnm4a03ZG8zOtOOW7mq1UU6VbAEujRFvDnQzaC5GlyxOWGKD7kjK7Q5JgphuYf85zk/7Nq58khFOijiQbobzpk63Ng6ukf2LzoBWOa5LH1sOhQRA7qkUIc61mI0ut2XZzo4gvG5/wA9OrJJ37ldtRk6T6IEuQw98...
+[38;5;8m2023-02-03 22:07:55[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"729417176","message":[{"type":"record","data":{"file":"base64://UklGRjJkBABXQVZFZm10IBIAAAADAAEAgLsAAADuAgAEACAAAABmYWN0BAAAAAAZAQBkYXRhAGQEAKNL+jmov/s3DsYDOjJCk7ns+kA6jcO0ufe4WDo81uG5BWhZOtlSD7pXtJk6yotCunpchzptvAq6L1hWOusxBLpe8Fo6pvr5uQzhNDr5NdW5pR9COkqFs7ngm106tLEDupv6VToT2PK55ydROpxTwLkRAlw6fPXbuYlkHzp8y4W5Vh1AOugz9bl2UkE65WaluXN4JjqScXK5/EAWOln9uribf+g5PXcVuun2RDpI1+u5b3ZSOlyi47l6k0E6DQSAusKMljrTj/G5QWPvObDcMrm7JBk6SlXEuS0LQTqDIhi6wyVGOu9QDrrE2Es63mZJueZb6zmaDeS4sDLtOc1YSDeb9Ac6WcF3t0iGsjnU4gi3SJTPOfKsmrmRXiM6/PuUuarXRDpIOha6VgxdOmHGHLox1Ec6bheEucqGFDqDOiG6TlpxOmQm1Lm+ax865V2Yuf7JXTp1Wje6t16VOrRddrrAr2Q6uqgLuk/LNjo6Vyq4iIj1OWT+nrhJmwc6CZRXuXMjKjrgxgq6510oOhvi1bmCZis6loFRufcmIjrBbdO54OpxOpeANrqP94U60D9Kul2jRTqG4Lm5CK/+OUAB87i3QTU6u04HuhaMWDq9DgK6gslvOvyRILqPXX86vZZiuvVrjzrmwgy6ojJbOjYT+7mKReI5DuYntw/ylTnm4a03ZG8zOtOOW7mq1UU6VbAEujRFvDnQzaC5GlyxOWGKD7kjK7Q5JgphuYf85zk/7Nq58khFOijiQbobz...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2152:7
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-03 22:07:55[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 消息为空.
+[38;5;8m2023-02-03 22:08:58[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 22:08:58[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 22:08:59[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 22:08:59[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 22:08:59[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 22:09:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-03 22:09:06[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mgenshin-voice:ke9oi4[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbind[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 22:09:08[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-03 22:09:09[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-03 22:09:11[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 22:09:33[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> panic on decoder MultiMsg.ApplyDown : runtime error: index out of range [0] with length 0
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug.Stack()
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m goroutine 220 [running]:
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug/stack.go:24 +0x65
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:335 +0x65
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m panic({0x85cee0, 0xc000022180})
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m runtime/panic.go:884 +0x212
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/multimsg.go:108 +0x9c5
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.decodeMultiApplyDownResponse(0xc000398140?, 0x49?, {0xc000398140, 0x49, 0x49})
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc000310780)
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:346 +0x1c7
+[38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:332 +0x4cd
+[38;5;8m2023-02-03 22:09:33[0m [E] [38;5;32;1mgocqhttp[0m 出现错误 packet decode error: MultiMsg.ApplyDown - runtime error: index out of range [0] with length 0. 详细信息已转储至文件 dumps/1675433373.dump 请连同日志提交给开发者处理

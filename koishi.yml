@@ -51,13 +51,7 @@ plugins:
   echo:dtgmc7:
     $filter: {}
   respondent:dd4k58:
-    rules:
-      - match: 笨蛋
-        reply: Aya才不是笨蛋！你才是笨蛋！
-        regexp: true
-      - match: '@Aya'
-        reply: 艾特我干嘛
-        regexp: true
+    rules: []
   marry:sogxm4:
     excludedUsers:
       - platform: onebot
@@ -83,3 +77,9 @@ plugins:
   broadcast:mnsola: {}
   rryth:6zt2o5: {}
   rr-translator:2ids1s: {}
+  sleep-manage:bx1rf3: {}
+  who-at-me:2fovrl: {}
+  saohua-word:x3o1e2: {}
+  ip-checker:efwgz9: {}
+  todaynews:ex15mu: {}
+  oni-rocket-calculator:j3mxpe: {}
