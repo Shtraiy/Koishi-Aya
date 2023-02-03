@@ -1,0 +1,19 @@
+[2023-02-03 17:29:53] [WARNING]: 恢复会话失败: exchange_emp failed: 15 , 尝试使用正常流程登录. 
+[2023-02-03 17:29:54] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-02-03 17:29:54] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-02-03 17:29:54] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-02-03 17:29:54] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-02-03 17:30:09] [WARNING]: 是否更新(y/N):  
+[2023-02-03 17:30:49] [ERROR]: 更新失败: Get "https://github.com/Mrs4s/go-cqhttp/releases/download/v1.0.0-rc4/go-cqhttp_windows_amd64.zip": read tcp 192.168.2.11:55410->20.205.243.166:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2023-02-03 17:31:12] [WARNING]: 是否更新(y/N):  
+[2023-02-03 17:31:36] [ERROR]: checksum 失败! 
+[2023-02-03 17:46:54] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-02-03 17:46:54] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-02-03 17:46:54] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-02-03 17:46:54] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-02-03 17:47:20] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 
+[2023-02-03 17:55:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-02-03 17:55:50] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 
+[2023-02-03 17:57:36] [FATAL]: 打开数据库失败: open backend error: open leveldb error: The process cannot access the file because it is being used by another process. 
+[2023-02-03 17:57:53] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-02-03 17:57:54] [WARNING]: 正向 Websocket 使用了过时的配置格式，请更新配置文件 

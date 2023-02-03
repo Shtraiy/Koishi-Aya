@@ -1,0 +1,49 @@
+host: localhost
+port: 8080
+selfUrl: https://my-host:9090
+maxPort: 5149
+plugins:
+  group:basic:
+    help: {}
+    rate-limit: {}
+    locales: {}
+    commands: {}
+    ~admin: {}
+    ~bind: {}
+  group:console:
+    analytics: {}
+    console:
+      open: true
+    dataview: {}
+    desktop:
+      $if: env.KOISHI_AGENT?.includes('Desktop')
+    logger: {}
+    insight: {}
+    market:
+      registry:
+        endpoint: https://registry.npmmirror.com
+      search:
+        endpoint: https://registry.koishi.chat/index.json
+    sandbox: {}
+    status: {}
+  group:database:
+    database-sqlite: {}
+    ~database-mysql: {}
+    ~database-mongo: {}
+    assets-local: {}
+  group:adapter:
+    adapter-onebot:
+      protocol: ws
+      selfId: '168034743'
+      endpoint: ws://127.0.0.1:6700
+      token: ''
+      path: /foo
+      gocqhttp:
+        enabled: true
+    ~adapter-discord: {}
+    ~adapter-telegram: {}
+    ~adapter-kook: {}
+    ~adapter-feishu: {}
+    gocqhttp:
+      password: password1234
+      enabled: true

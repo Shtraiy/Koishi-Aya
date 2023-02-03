@@ -1,0 +1,325 @@
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:26:03[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mchannel[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mstats_daily[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mstats_longterm[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209muser[0m
+[38;5;8m2023-02-03 17:26:03[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mstats_hourly[0m
+[38;5;8m2023-02-03 17:26:05[0m [W] [38;5;178;1mmarket[0m failed to parse [38;5;178mkoishi-plugin-talk[0m
+[38;5;8m2023-02-03 17:26:05[0m [W] [38;5;178;1mmarket[0m Error: Cannot find module 'C:\Users\Resalia\Desktop\Koishi\node_modules\koishi-plugin-talk\lib\index.js'. Please verify that the package.json has a valid "main" entry
+                            at tryPackage (node:internal/modules/cjs/loader:393:19)
+                            at Function.Module._findPath (node:internal/modules/cjs/loader:606:18)
+                            at Function.Module._resolveFilename (node:internal/modules/cjs/loader:971:27)
+                            at Function.resolve (node:internal/modules/cjs/helpers:109:19)
+                            at PackageProvider2.loadPackage (C:\Users\Resalia\Desktop\Koishi\Aya\node_modules\@koishijs\plugin-market\lib\node\index.js:382:26)
+                            at PackageProvider2.loadDirectory (C:\Users\Resalia\Desktop\Koishi\Aya\node_modules\@koishijs\plugin-market\lib\node\index.js:375:16)
+                            at async Promise.all (index 1)
+                            at async PackageProvider2.prepare (C:\Users\Resalia\Desktop\Koishi\Aya\node_modules\@koishijs\plugin-market\lib\node\index.js:347:5)
+                            at async PackageProvider2.get (C:\Users\Resalia\Desktop\Koishi\Aya\node_modules\@koishijs\plugin-market\lib\node\index.js:352:5)
+                            at async PackageProvider2.refresh (C:\Users\Resalia\Desktop\Koishi\Aya\node_modules\@koishijs\plugin-console\lib\shared\index.js:66:14)
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:27:54[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:5140[0m
+[38;5;8m2023-02-03 17:27:54[0m [W] [38;5;204;1massets[0m missing configuration "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:40:41[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 17:41:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 17:41:04[0m [I] [38;5;209;1msqlite[0m auto updating table [38;5;209muser[0m
+[38;5;8m2023-02-03 17:41:04[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:41:09[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:41:14[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:41:19[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:41:24[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:41:29[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:41:34[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:42:34[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:43:34[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:44:34[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:45:34[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:46:34[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:47:34[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 17:47:34[0m [I] [38;5;209;1msqlite[0m auto updating table [38;5;209muser[0m
+[38;5;8m2023-02-03 17:47:48[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:47:53[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:47:58[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:48:03[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:48:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:48:11[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 17:48:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 17:48:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:48:11[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:48:16[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:48:21[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:48:26[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:48:31[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:48:36[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:48:41[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 17:49:03[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 17:49:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:49:03[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:57693, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:49:08[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:57693, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:49:13[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:57693, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:49:18[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:57693, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:49:23[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:57693, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:49:28[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:57693, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:49:33[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:57693, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:50:22[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 17:50:22[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:9080, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:50:27[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:9080, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:50:32[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:9080, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:50:37[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:9080, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:50:42[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:9080, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:50:47[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:9080, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:50:52[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:9080, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:51:52[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:9080, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:52:02[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 17:52:02[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:52:07[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:52:12[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:52:17[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:52:22[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:52:27[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:52:32[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:52:47[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:52:48[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 17:52:48[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:52:53[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:52:58[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:53:03[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:53:08[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:53:13[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:53:18[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:54:18[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 17:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 17:55:12[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 17:55:12[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:55:17[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:55:22[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:55:27[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:55:32[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:55:37[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:55:42[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 1m...
+[38;5;8m2023-02-03 17:56:42[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 17:57:46[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:57:51[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 17:57:56[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-03 18:00:02[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-03 18:00:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-03 18:00:07[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 18:00:12[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 18:00:17[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 18:00:22[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 18:00:27[0m [W] [38;5;214;1madapter[0m failed to connect to ws://127.0.0.1:6700, code: 1006, will retry in 5s...
+[38;5;8m2023-02-03 18:00:31[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-03 18:00:31[0m [W] [38;5;32;1mgocqhttp[0m 账号密码未配置, 将使用二维码登录. 
+[38;5;8m2023-02-03 18:00:31[0m [W] [38;5;32;1mgocqhttp[0m 虚拟设备信息不存在, 将自动生成随机设备. 
+[38;5;8m2023-02-03 18:00:45[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-03 18:00:47[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
