@@ -65,7 +65,7 @@ plugins:
       - match: (A|aya)[看什么v|v推荐|来点v]
         reply: 关注鲸鱼娘西丝特official喵！关注鲸鱼娘西丝特official谢谢喵！
         regexp: true
-      - match: 吃吃(你的|need)
+      - match: 吃吃((A|aya)的|你的|need)
         reply: 呜..不要吃Aya
         regexp: true
       - match: 吃吃(我的|word)
