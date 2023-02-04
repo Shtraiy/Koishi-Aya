@@ -52,7 +52,16 @@ plugins:
   echo:dtgmc7:
     $filter: {}
   respondent:dd4k58:
-    rules: []
+    rules:
+      - match: 老|脑婆
+        reply: 谁是你老婆
+        regexp: true
+      - match: (A|aya)(帮我打胶|搅)
+        reply: 爬，自己打
+        regexp: true
+      - match: (A|aya)(最喜欢你了|喜欢|爱|爱你)
+        reply: 才、才没有喜欢你呢
+        regexp: true
   marry:sogxm4:
     excludedUsers:
       - platform: onebot
@@ -86,3 +95,9 @@ plugins:
   ~schema-guide:ndqby2: {}
   today-in-history:e6tqq2: {}
   httpcat:sqh0v5: {}
+  thesaurus:ricrb5: {}
+  cache-aragami:c4yruc: {}
+  shunkouliu-word:akl87m: {}
+  interesting-word:mjev1y: {}
+  ~rasa-nlg-dict:bba8na: {}
+  ~rasa-nlu:ck1b1i: {}
