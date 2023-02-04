@@ -998,3 +998,54 @@
 [38;5;8m2023-02-04 12:08:19[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
 [38;5;8m2023-02-04 12:12:27[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
 [38;5;8m2023-02-04 12:17:32[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-04 12:31:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-04 12:31:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-04 12:31:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-04 12:31:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-04 12:31:58[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-04 12:31:58[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-04 12:31:58[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-04 12:32:00[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-04 12:32:01[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
