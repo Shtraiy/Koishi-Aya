@@ -53,7 +53,7 @@ plugins:
     $filter: {}
   respondent:dd4k58:
     rules:
-      - match: 老|脑婆
+      - match: (A|aya)老|脑婆
         reply: 谁是你老婆
         regexp: true
       - match: (A|aya)(帮我打胶|搅)
