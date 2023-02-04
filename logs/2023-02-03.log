@@ -854,3 +854,28 @@
 [38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:346 +0x1c7
 [38;5;8m2023-02-03 22:09:33[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:332 +0x4cd
 [38;5;8m2023-02-03 22:09:33[0m [E] [38;5;32;1mgocqhttp[0m 出现错误 packet decode error: MultiMsg.ApplyDown - runtime error: index out of range [0] with length 0. 详细信息已转储至文件 dumps/1675433373.dump 请连同日志提交给开发者处理
+[38;5;8m2023-02-03 23:32:59[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 23:33:04[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> panic on decoder MultiMsg.ApplyDown : runtime error: index out of range [0] with length 0
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m goroutine 1856 [running]:
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:335 +0x65
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug.Stack()
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug/stack.go:24 +0x65
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m panic({0x85cee0, 0xc0000aa108})
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m runtime/panic.go:884 +0x212
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc0003a8320)
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/multimsg.go:108 +0x9c5
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.decodeMultiApplyDownResponse(0xc0002b6000?, 0x49?, {0xc0002b6000, 0x49, 0x49})
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:346 +0x1c7
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:332 +0x4cd
+[38;5;8m2023-02-03 23:33:04[0m [E] [38;5;32;1mgocqhttp[0m 出现错误 packet decode error: MultiMsg.ApplyDown - runtime error: index out of range [0] with length 0. 详细信息已转储至文件 dumps/1675438384.dump 请连同日志提交给开发者处理
+[38;5;8m2023-02-03 23:33:04[0m [I] [38;5;32;1mgocqhttp[0m 
+[38;5;8m2023-02-03 23:35:33[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-03 23:47:37[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-03 23:47:37[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-03 23:47:37[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-03 23:47:37[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-03 23:47:37[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-03 23:53:03[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mbind[0m
+[38;5;8m2023-02-03 23:53:39[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mstatus[0m

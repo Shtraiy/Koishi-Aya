@@ -1,0 +1,553 @@
+[38;5;8m2023-02-04 00:00:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-04 00:00:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbind[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbind[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-04 00:01:00[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-04 00:01:01[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-04 00:01:03[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-04 00:10:42[0m [W] [38;5;215;1mcommand[0m help teach
+                        TypeError: Cannot read properties of undefined (reading '0')
+                            at cheatSheet (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:355:35)
+                            at _Command._usage (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:415:173)
+                            at showHelp (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\plugin-help\lib\index.js:249:85)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async Lifecycle.serial (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:106:22)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1580:22)
+[38;5;8m2023-02-04 00:10:48[0m [W] [38;5;215;1mcommand[0m help teach
+                        TypeError: Cannot read properties of undefined (reading '0')
+                            at cheatSheet (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:355:35)
+                            at _Command._usage (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:415:173)
+                            at showHelp (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\plugin-help\lib\index.js:249:85)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async Lifecycle.serial (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:106:22)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1580:22)
+[38;5;8m2023-02-04 00:14:57[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"text","data":{"text":"种子 = 2100377571"}}]}},{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"text","data":{"text":"关键词 = tree, yellow, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAMACAIAAADdbUgZAAEAAElEQVR4nFT9WaxuW3Yeho0xZrO6v9396e8999y+qm7dW2SxWEWyqCIlSmIi2RYRyYopJbYExEmMAEEAvzlP8ZuRhwR5tQPIgWWLFh3RcCiRlIpkFYssVV+3706/+79f3ZxzjJGHf59b9MbB2Xuf/99nA2uuNcaYXzfxv/lnvwM7k598vDhb6AJvLNeZiBFUQFVhVVBVQFQVBABVBUUABUVQQAAVACEEgzzKdOTirQNTxc29l8eiXZAYpXaGum4zzZcjbJ1GiW1Z+dg1eWatI2BMKUmMZKDpOQhsmqgxOk/GGGORVAAAVarKZZYGQzca+iy3qqCABpQIyNqYYLaoV8u2Z+5CECVmbVs2SMZA3wUViVE5aRQUIGFRUTRkHXFiUM5zxyI+t4SAIgRinRVVYSGBzOW+cCaze2V+4+Y0HwIhI6Ei...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-04 00:19:08[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"text","data":{"text":"种子 = 2903866096"}}]}},{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"text","data":{"text":"关键词 = syameimaru aya, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAMACAIAAADdbUgZAAEAAElEQVR4nMT9Z4BlSVYeiq4VEdscmz6zsrzrMm2mvRvGT4+FcTAMwgwXI12EkC4CeXSfxNMDIQcyCBkEEh4BM4Ow410z0z097W1VdfmqrMqs9CeP3XtHrPV+hNn7VI/sfffdA9OV55x99g6z4lvfMrEC//yDj+heJ88KBgAAZgCwfyIiMIAARIEgpJBCCCmEEFIgChRoXwKRARAA0P1UIAADs+n1+/3RAACYmZnHH2CfMvbC1/wXEBFAACBgs1avJSkCSuEvQUBgAGRm90z/JGJiZmAGcE/2Lwa0rUCG8lsGYABiBmRNTAKu9XpFHJ04esQYwwjku+Bv555re82+za6TDEIgs3sIh+4AIALY4RMiilSUJLV6vd5sNtvteqtVbzZr9Uaa1qIkjZNERYmMlJRSSCWllEpGcSS0+ezHP3bpwv...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-04 00:20:02[0m [W] [38;5;32;1mgocqhttp[0m 语音文件 F39BE1CCB99CC42A0054A30D227A682E.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF
+[38;5;8m2023-02-04 00:20:27[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-04 00:20:27[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-04 00:20:29[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-04 00:20:30[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-04 00:20:31[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-04 00:20:32[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-04 00:20:32[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"在画了在画了"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+[38;5;8m2023-02-04 00:20:32[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-04 00:20:32[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"Aya不是笨蛋！你才是笨蛋！"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async MessageBuffer._flush (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:490:20)
+                            at async MessageBuffer.end (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:509:5)
+                            at async triggerDialogue (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:577:3)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-04 00:20:34[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"Aya不是笨蛋！你才是笨蛋！"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async MessageBuffer._flush (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:490:20)
+                            at async MessageBuffer.end (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:509:5)
+                            at async triggerDialogue (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:577:3)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-04 00:20:34[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-04 00:20:35[0m [W] [38;5;32;1mgocqhttp[0m 合并转发(群)消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-04 00:20:35[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"text","data":{"text":"种子 = 2649574831"}}]}},{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"text","data":{"text":"关键词 = hakurei reimu, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAMACAIAAADdbUgZAAEAAElEQVR4nNT9ebgtyVEfikZEZlWtea+157PP3Of0PKpbanVraM1Sa0YMAjEZA2bwgO3Hs++79n3Pxte+fJ4YfME2FxAYMMYIMJJAICE0t7rV6m6p5z49nvmcPe81r6rKzLh/VGZW1j4N5n2fkbn1de+z91o1ZEZG/OIXkZFZePTg9blRCMjMgAjMgAD2BwCA/RPdnwAI6H+r/hv+gQBg7+b/B4DiCVh8W3zCxYnFwcDFo9E+qbw3Ivo2uJviy/4StJMRkYHtfRCAGe0DEIJGBE8pPnI3QkREYCDC8k9ADNomJGmlkHg8HO70p9e87UPx2vXj9dOjU/dvn3m6VpdKMQAj6OHeoNludBeWL519qdls9RaW2dguF/e0DfNiY/a9DjtWCKhoAFflj8EJ+w4nglK8gRz2SzX4y35WtA+FuLx+6fL...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-04 00:20:36[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-04 00:20:36[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"Aya不是笨蛋！你才是笨蛋！"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async MessageBuffer._flush (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:490:20)
+                            at async MessageBuffer.end (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:509:5)
+                            at async triggerDialogue (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:577:3)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-04 00:32:32[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"种子 = 448498184"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"关键词 = zywoo, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAMACAIAAADdbUgZAAEAAElEQVR4nFT915ItWZoeiP1iCXffItSReTKzKks1qgXQaIADYgaYGZqRHBptjEZe8B34ALzli5FG48UYQRuCAxqABtDorsqslEeF2srd11q/4IXvONW8OmEh9tkR7v6LTy38v/yf/0+vb8L/9n/x5dWLG0BW0X/3n35499DckMyYLIKtL/qx2O5YhcNxLGx+c5W/eLG6XKVu3Zm0yMyJ0N0BpcF+bI9zjWivr/qLLsYUMTA6ACAgmbupuoqrmlkprYqLuJoieGAmZjVADJwjgAOYqNVmYCSlxC6riJMxKHlDxsOJ/qc/nH78yL++bP/1P3/eJw/MKgpE4AiEbo5E5mTmZoyh8zCoD0rbCkPD3iAAsiiAEyIa4KlKLYdMk48PYFhX22MDavI86EDzZhNTcCRCNyIEdzcFosNx/vYBDrNd5Phik1I0ZlcpgAYyJyZMwZ0JCGN...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-04 00:34:21[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"text","data":{"text":"种子 = 964637912"}}]}},{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"text","data":{"text":"关键词 = komeiji satori, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"蓬莱山辉夜夜笙歌","uin":"2372687943","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAIAAAB7GkOtAAEAAElEQVR4nMz9edQdx3UnCN57IyIz33vfvmHfd5DgAi6iKFKrtVmrLS9ylV12e1zV1TXjOlV1arpOn6kz0326T7d72lOby9Vjj112lRfZlmxZsi2JWilREkmRIgGCIAACIHbgA779fW/JJeLe+SMi871vAUhKZbtC0Me35MuMjLzL766BT3zuy4SKRRBAAAQAAEDC/0AE+j4sX2Lf/wEQwx/xAwCE2f8HEEQbrZVSRiGGHwmUZxYAARZhJ2EOzMIOEJ21zI6dE2ERIQRSSmmVpoUTuzg7n+dpZ7nlWJx1wuKsZYZuKy8sm8gIy2BGdmHOpt1EETgRZgJI6pETFgZjwAI5cKIVKiVaZRaj2mCWurGR+ujAoGaKWNt2OhDHiIoFWURryrIiK5gdD9X0yFB0dfrS0xcufvu186mIIBApQWTnSJE...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-04 06:00:04[0m [I] [38;5;32;1mgocqhttp[0m ——来自群管理员（2419269719）的编辑 (2113816854)
+[38;5;8m2023-02-04 06:00:06[0m [I] [38;5;32;1mgocqhttp[0m ——来自群管理员（2419269719）的编辑 (-453568340)
+[38;5;8m2023-02-04 06:48:57[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-04 06:48:57[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-04 06:48:57[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-04 06:48:57[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-04 06:48:57[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-04 06:49:01[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mscene-training:yzrpkx[0m
+[38;5;8m2023-02-04 06:49:01[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mscene_training_event[0m
+[38;5;8m2023-02-04 06:49:01[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mscene_training_rules[0m
+[38;5;8m2023-02-04 06:49:06[0m [W] [38;5;129;1msession[0m 你好
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-who-at-me\lib\index.js:42:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-sleep-manage\lib\index.js:101:20
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-marry\lib\index.js:46:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1770:14
+[38;5;8m2023-02-04 06:49:10[0m [W] [38;5;129;1msession[0m 你好
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-who-at-me\lib\index.js:42:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-sleep-manage\lib\index.js:101:20
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-marry\lib\index.js:46:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1770:14
+[38;5;8m2023-02-04 06:49:58[0m [W] [38;5;215;1mcommand[0m help teach
+                        TypeError: Cannot read properties of undefined (reading '0')
+                            at cheatSheet (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:355:35)
+                            at _Command._usage (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:415:173)
+                            at showHelp (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\plugin-help\lib\index.js:249:85)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-02-04 06:50:28[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-04 06:50:34[0m [W] [38;5;129;1msession[0m Aya
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-who-at-me\lib\index.js:42:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-sleep-manage\lib\index.js:101:20
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-marry\lib\index.js:46:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+[38;5;8m2023-02-04 06:50:51[0m [W] [38;5;129;1msession[0m Aya
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-who-at-me\lib\index.js:42:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-sleep-manage\lib\index.js:101:20
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-marry\lib\index.js:46:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+[38;5;8m2023-02-04 06:51:17[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-04 06:51:21[0m [W] [38;5;129;1msession[0m Aya
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-who-at-me\lib\index.js:42:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-sleep-manage\lib\index.js:101:20
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-marry\lib\index.js:46:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+[38;5;8m2023-02-04 06:51:51[0m [W] [38;5;129;1msession[0m Aya
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-who-at-me\lib\index.js:42:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-sleep-manage\lib\index.js:101:20
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-marry\lib\index.js:46:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+[38;5;8m2023-02-04 06:51:59[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbind[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mscene-training:yzrpkx[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-04 06:52:05[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-04 06:52:06[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-04 06:52:08[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-04 06:52:19[0m [W] [38;5;129;1msession[0m Aya
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1759:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at Processor._process (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:774:12)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-02-04 06:52:26[0m [W] [38;5;129;1msession[0m Aya你个笨蛋
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1759:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at Processor._process (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:774:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-04 06:56:06[0m [W] [38;5;129;1msession[0m Aya你个笨蛋
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1759:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at Processor._process (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:774:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-04 06:56:19[0m [W] [38;5;215;1mcommand[0m help teach
+                        TypeError: Cannot read properties of undefined (reading '0')
+                            at cheatSheet (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:355:35)
+                            at _Command._usage (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:415:173)
+                            at showHelp (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\plugin-help\lib\index.js:249:85)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async Lifecycle.serial (C:\Users\Resalia\Desktop\Aya\node_modules\cordis\lib\index.cjs:106:22)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1580:22)
+[38;5;8m2023-02-04 06:57:43[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mbind[0m
+[38;5;8m2023-02-04 06:57:47[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mstatus[0m
+[38;5;8m2023-02-04 06:57:56[0m [W] [38;5;129;1msession[0m Aya
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1759:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at Processor._process (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:774:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-04 06:58:49[0m [W] [38;5;129;1msession[0m 到谁当星怒了
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1759:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at Processor._process (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:774:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-04 06:58:58[0m [W] [38;5;129;1msession[0m 今日老婆
+                        TypeError: koishi_1.segment.at(...).replace is not a function
+                            at getAppelRegexp (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:11:85)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-scene-training\lib\plugins\RulesReply.js:24:29
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1765:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1759:16
+                            at next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:69)
+                            at Processor._process (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:774:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-04 06:59:38[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mscene-training:yzrpkx[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-04 06:59:42[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-04 06:59:43[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-04 06:59:45[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-04 07:47:57[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msteaminfo:uh0vvu[0m
+[38;5;8m2023-02-04 07:48:52[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-04 07:48:52[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-04 07:48:52[0m [I] [38;5;178;1mmarket[0m added 2 packages in 4s
+[38;5;8m2023-02-04 07:48:52[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-04 07:48:52[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-04 07:49:06[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78msteaminfo:uh0vvu[0m
+[38;5;8m2023-02-04 07:49:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgameinfo:jdf6d1[0m
+[38;5;8m2023-02-04 07:49:18[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> panic on decoder MultiMsg.ApplyDown : runtime error: index out of range [0] with length 0
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m goroutine 1063 [running]:
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug.Stack()
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m panic({0x85cee0, 0xc0000222b8})
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug/stack.go:24 +0x65
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:335 +0x65
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m runtime/panic.go:884 +0x212
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.decodeMultiApplyDownResponse(0xc000210280?, 0x49?, {0xc000210280, 0x49, 0x49})
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc000202fa0)
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/multimsg.go:108 +0x9c5
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:346 +0x1c7
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+[38;5;8m2023-02-04 07:49:18[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:332 +0x4cd
+[38;5;8m2023-02-04 07:49:18[0m [E] [38;5;32;1mgocqhttp[0m 出现错误 packet decode error: MultiMsg.ApplyDown - runtime error: index out of range [0] with length 0. 详细信息已转储至文件 dumps/1675468158.dump 请连同日志提交给开发者处理
+[38;5;8m2023-02-04 07:49:40[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mgameinfo:jdf6d1[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-04 07:50:24[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-04 07:50:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-04 07:50:24[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-04 07:50:24[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-04 07:50:26[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-04 07:51:02[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-04 07:51:02[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-04 07:51:02[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-04 07:51:02[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-04 07:51:02[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-04 07:51:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mweibo-hot:gt872n[0m
+[38;5;8m2023-02-04 07:52:55[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mweibo-hot:gt872n[0m
+[38;5;8m2023-02-04 07:53:43[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-04 07:53:43[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-04 07:53:44[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-04 07:53:44[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-04 07:53:44[0m [I] [38;5;178;1mmarket[0m 
+[38;5;8m2023-02-04 07:53:44[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-04 07:53:46[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-04 07:55:09[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-04 07:55:09[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-04 07:55:09[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-04 07:55:09[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-04 07:55:09[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-04 07:55:11[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-04 07:56:45[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-04 07:56:45[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-04 07:56:46[0m [I] [38;5;178;1mmarket[0m added 1 package in 2s
+[38;5;8m2023-02-04 07:56:46[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-04 07:56:46[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-04 07:57:24[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-04 07:57:24[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-04 07:57:24[0m [I] [38;5;178;1mmarket[0m added 2 packages in 2s
+[38;5;8m2023-02-04 07:57:24[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-04 07:57:24[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-04 07:57:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mfavor:v481ki[0m
+[38;5;8m2023-02-04 07:58:01[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mfavor:v481ki[0m
+[38;5;8m2023-02-04 07:58:12[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mfavor:v481ki[0m
+[38;5;8m2023-02-04 07:58:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mfavor:v481ki[0m
+[38;5;8m2023-02-04 08:00:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mfavor:v481ki[0m
+[38;5;8m2023-02-04 08:00:36[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-04 08:00:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m

@@ -4,12 +4,13 @@ selfUrl: https://my-host:9090
 maxPort: 5149
 plugins:
   group:basic:
-    help: {}
+    help:
+      shortcut: true
     rate-limit: {}
     locales: {}
     commands: {}
     admin: {}
-    bind: {}
+    ~bind: {}
   group:console:
     analytics: {}
     console:
@@ -25,7 +26,7 @@ plugins:
       search:
         endpoint: https://registry.koishi.chat/index.json
     sandbox: {}
-    status: {}
+    ~status: {}
   group:database:
     database-sqlite: {}
     ~database-mysql: {}
@@ -62,15 +63,14 @@ plugins:
       - 到谁当星怒了
   dialogue:s3gba3:
     authority:
-      base: 0
-      admin: 0
-      writer: 0
-      regExp: 0
-      frozen: 0
-      context: 0
+      base: 2
+      admin: 2
+      writer: 2
+      regExp: 2
+      frozen: 2
+      context: 2
   epic-get-free-game:390sgh: {}
   puppeteer:lnylzt: {}
-  ~steaminfo:uh0vvu: {}
   shici-word:dc6bqa: {}
   crazy-thursday:l2iz3n: {}
   schedule:higxep: {}
@@ -83,3 +83,6 @@ plugins:
   ip-checker:efwgz9: {}
   todaynews:ex15mu: {}
   oni-rocket-calculator:j3mxpe: {}
+  ~schema-guide:ndqby2: {}
+  today-in-history:e6tqq2: {}
+  httpcat:sqh0v5: {}
