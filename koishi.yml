@@ -59,10 +59,10 @@ plugins:
       - match: (A|aya)(帮我打胶|搅)
         reply: 爬，自己打
         regexp: true
-      - match: (A|aya)(最喜欢你了|喜欢|爱|爱你)
+      - match: (A|aya)(最喜欢你了|喜欢|我爱你|爱你)
         reply: 才、才没有喜欢你呢
         regexp: true
-      - match: (A|aya)[看什么v|v推荐|来点v]
+      - match: (A|aya)(看什么v|v推荐|来点v)
         reply: 关注鲸鱼娘西丝特official喵！关注鲸鱼娘西丝特official谢谢喵！
         regexp: true
       - match: 吃吃((A|aya)的|你的|need)
@@ -70,6 +70,9 @@ plugins:
         regexp: true
       - match: 吃吃(我的|word)
         reply: 变态爬
+        regexp: true
+      - match: (A|aya)[笨+蛋|笨比|猪币|傻子]
+        reply: Aya不笨！不许骂Aya！
         regexp: true
   marry:sogxm4:
     excludedUsers:
@@ -110,3 +113,7 @@ plugins:
   interesting-word:mjev1y: {}
   ~rasa-nlg-dict:bba8na: {}
   ~rasa-nlu:ck1b1i: {}
+  repeater:i36m6k: {}
+  dialogue-flow:regdtp: {}
+  dialogue-author:ed8yq1: {}
+  ~openchat:nov28q: {}
