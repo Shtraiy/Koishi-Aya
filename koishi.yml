@@ -53,7 +53,7 @@ plugins:
     $filter: {}
   respondent:dd4k58:
     rules:
-      - match: (A|aya)老|脑婆
+      - match: (A|aya)(老|脑)婆
         reply: 谁是你老婆
         regexp: true
       - match: (A|aya)(帮我打胶|搅)
@@ -61,6 +61,9 @@ plugins:
         regexp: true
       - match: (A|aya)(最喜欢你了|喜欢|爱|爱你)
         reply: 才、才没有喜欢你呢
+        regexp: true
+      - match: (A|aya)[看什么v|v推荐|来点v]
+        reply: 关注鲸鱼娘西丝特official喵！关注鲸鱼娘西丝特official谢谢喵！
         regexp: true
   marry:sogxm4:
     excludedUsers:
