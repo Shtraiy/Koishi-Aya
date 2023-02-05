@@ -1892,3 +1892,24 @@
 [38;5;8m2023-02-04 20:44:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mopenchat:nov28q[0m
 [38;5;8m2023-02-04 20:50:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrasa-nlu:ck1b1i[0m
 [38;5;8m2023-02-04 21:00:25[0m [I] [38;5;32;1mgocqhttp[0m ] (686884121)
+[38;5;8m2023-02-04 22:20:45[0m [I] [38;5;32;1mgocqhttp[0m 
+[38;5;8m2023-02-04 22:20:45[0m [I] [38;5;32;1mgocqhttp[0m # ？ 怎末，你不福气吗¿， (-2106480774)
+[38;5;8m2023-02-04 23:27:17[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mopenchat:nov28q[0m
+[38;5;8m2023-02-04 23:56:47[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mopenchat:nov28q[0m
+[38;5;8m2023-02-04 23:58:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-04 23:58:56[0m [W] [38;5;129;1msession[0m aya
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-04 23:59:21[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 你好
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
