@@ -365,3 +365,27 @@
                             at processTicksAndRejections (node:internal/process/task_queues:83:21)
 [38;5;8m2023-02-06 13:02:53[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
 [38;5;8m2023-02-06 13:04:23[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 13:11:45[0m [W] [38;5;129;1msession[0m <at id="168034743"/> <at id="168034743"/> 猪茗芋怎么变成网红了，猪茗芋难道不是一种芋头吗
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 13:12:08[0m [W] [38;5;129;1msession[0m Aya 陪我打csgo
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 13:12:51[0m [W] [38;5;129;1msession[0m Aya 陪我打csgo
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
