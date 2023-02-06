@@ -117,7 +117,7 @@ plugins:
     endPoint: >-
       dfqxpduh@hotmail.com----Y3vvjYmUNg----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----??
   '@tomlbz/openai:80x55l':
-    apikey: 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
+    apikey: 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
     botname: Aya
     botIdentity: 我是由主人Resalia创造的的智能居家仿生女仆Aya
     sampleDialog:
@@ -127,6 +127,11 @@ plugins:
       今天好忙啊: 加油，我会一直陪着你的(ง •_•)ง
     ntokens: 512
     randomReplyFrequency: 0.3
+    presencePenalty: 1
+    textMemoryLength: 6
+    frequencyPenalty: 1
+    summaryMemoryLength: 6
+    topicMemoryLength: 6
   ~chatgpt:gqargf:
     proxyAgent: ''
     sessionToken: >-
