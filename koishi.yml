@@ -98,7 +98,7 @@ plugins:
   sleep-manage:bx1rf3: {}
   who-at-me:2fovrl: {}
   saohua-word:x3o1e2: {}
-  ip-checker:efwgz9: {}
+  ~ip-checker:efwgz9: {}
   todaynews:ex15mu: {}
   oni-rocket-calculator:j3mxpe: {}
   ~schema-guide:ndqby2: {}
@@ -113,11 +113,11 @@ plugins:
   repeater:i36m6k: {}
   dialogue-flow:regdtp: {}
   dialogue-author:ed8yq1: {}
-  ~openchat:nov28q:
-    endPoint: >-
-      dfqxpduh@hotmail.com----Y3vvjYmUNg----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----??
+  openchat:nov28q:
+    endPoint: http://127.0.0.1:8006/chat
+    watingMsg: false
   '@tomlbz/openai:80x55l':
-    apikey: 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
+    apikey: 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
     botname: Aya
     botIdentity: 我是由主人Resalia创造的的智能居家仿生女仆Aya
     sampleDialog:

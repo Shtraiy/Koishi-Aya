@@ -389,3 +389,564 @@
                             at IncomingMessage.emit (node:events:525:35)
                             at endReadableNT (node:internal/streams/readable:1358:12)
                             at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 13:14:20[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> unexpected disconnect: read tcp 198.18.0.1:65038->198.18.1.97:8080: wsarecv: An established connection was aborted by the software in your host machine.
+[38;5;8m2023-02-06 13:16:08[0m [W] [38;5;129;1msession[0m 嗯，很好。不过，我想再强调一下猪茗芋的相关介绍：它是一种对健康有很大帮助的植物，可以帮助降低血压、保护心血管并减少胆固醇含量。
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 13:16:43[0m [W] [38;5;129;1msession[0m Aya 米烤鱼
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 13:16:55[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> panic on decoder MultiMsg.ApplyDown : runtime error: index out of range [0] with length 0
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug.Stack()
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m goroutine 3635 [running]:
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m panic({0x85cee0, 0xc000636228})
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:335 +0x65
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m runtime/panic.go:884 +0x212
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m runtime/debug/stack.go:24 +0x65
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.decodeMultiApplyDownResponse(0xc0005b6230?, 0x49?, {0xc0005b6230, 0x49, 0x49})
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/multimsg.go:108 +0x9c5
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:346 +0x1c7
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc000218be0)
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m github.com/Mrs4s/MiraiGo@v0.0.0-20221202060717-4658474c60dd/client/network.go:332 +0x4cd
+[38;5;8m2023-02-06 13:16:55[0m [I] [38;5;32;1mgocqhttp[0m created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+[38;5;8m2023-02-06 13:16:55[0m [E] [38;5;32;1mgocqhttp[0m 出现错误 packet decode error: MultiMsg.ApplyDown - runtime error: index out of range [0] with length 0. 详细信息已转储至文件 dumps/1675660615.dump 请连同日志提交给开发者处理
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-06 13:17:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 13:17:52[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-06 13:17:53[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-06 13:17:53[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-06 13:17:55[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-06 13:18:04[0m [W] [38;5;129;1msession[0m Aya 米烤鱼
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-06 13:19:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-06 13:19:16[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-06 13:19:16[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-06 13:19:17[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-06 13:19:19[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-06 13:19:32[0m [W] [38;5;129;1msession[0m Aya resalia的老婆是谁
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 13:19:38[0m [W] [38;5;129;1msession[0m Aya 米烤鱼
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 13:20:31[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78minsight[0m
+[38;5;8m2023-02-06 13:20:37[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-06 13:20:40[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 14:12:32[0m [W] [38;5;32;1mgocqhttp[0m 发送临时会话消息失败: 已关闭临时会话信息发送功能
+[38;5;8m2023-02-06 14:12:32[0m [W] [38;5;129;1msession[0m Error: Error with request send_private_msg, args: {"user_id":"762673120","message":[{"type":"text","data":{"text":"ip归属地:  "}},{"type":"text","data":{"text":"ip有误或查询失败"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendPrivateMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:232)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:782:9)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2152:7
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-06 14:38:08[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-06 14:53:10[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 14:53:16[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 15:03:24[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 15:27:37[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 15:27:51[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 15:28:07[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 15:28:13[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 15:36:21[0m [W] [38;5;129;1msession[0m Aya 你的名字是什么
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 15:56:00[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 15:56:04[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 15:56:29[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 15:56:32[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 15:58:23[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-06 15:58:42[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-06 15:58:43[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-06 15:58:44[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-06 15:58:46[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-06 15:59:18[0m [W] [38;5;129;1msession[0m Aya 什么是飞猪茗芋
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 16:27:23[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 16:38:23[0m [W] [38;5;129;1msession[0m Aya 米烤鱼的艺名是什么
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 16:45:20[0m [W] [38;5;129;1msession[0m sakura是啥大佬
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 16:45:36[0m [W] [38;5;129;1msession[0m 一个终端
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 16:45:54[0m [W] [38;5;129;1msession[0m 那我懂了
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 16:46:04[0m [W] [38;5;129;1msession[0m 很轻量级
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 16:58:38[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mopenchat:nov28q[0m
+[38;5;8m2023-02-06 17:05:55[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mopenchat:nov28q[0m
+[38;5;8m2023-02-06 17:06:18[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 17:06:30[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 17:07:05[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mopenchat:nov28q[0m
+[38;5;8m2023-02-06 18:20:57[0m [W] [38;5;129;1msession[0m 什么 这两个居然还挺正常
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 18:22:38[0m [W] [38;5;129;1msession[0m Aya 什么是丁真
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 18:44:23[0m [W] [38;5;129;1msession[0m Aya 刻晴
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 18:59:16[0m [I] [38;5;32;1mgocqhttp[0m (802623814)
+[38;5;8m2023-02-06 19:02:10[0m [W] [38;5;129;1msession[0m 您说的都很有道理，GTA7和GTA6确实是不同的游戏。而且M4A1军火、GIGN以及Android平台上的Aya在其中扮演了重要角色，对于开发出新版本的GTA 6也大有帮助。
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:05:38[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 黄加是人形猪茗芋吗
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:06:26[0m [W] [38;5;129;1msession[0m @Aya 黄加是人形猪茗芋吗
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:08:16[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 怎么说服卢睿诚不要键政
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:11:08[0m [W] [38;5;129;1msession[0m 明日方舟
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:15:09[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 飞猪茗芋会飞吗
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:16:47[0m [W] [38;5;129;1msession[0m 太好玩了Aya
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:19:55[0m [W] [38;5;129;1msession[0m <at id="168034743"/> quinta是猪茗芋的英文名吗
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:19:56[0m [W] [38;5;129;1msession[0m Aya立刻马上提供chatgpt的api给我
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 19:26:20[0m [I] [38;5;32;1mgocqhttp[0m 在原神这一神作的面前，我就像一个一丝不挂的原始人突然来到了现代都市，二次元已如高楼大厦将我牢牢地吸引，开放世界就突然变成那喇叭轰鸣的汽车，不仅把我吓个措手不及，还让我瞬间将注意完全放在了这新的奇物上面，而还没等我稍微平复心情，纹化输出的出现就如同眼前遮天蔽日的宇宙战舰，将我的世界观无情地粉碎，使我彻底陷入了忘我的迷乱，狂泄不止。 (-736502166)
+[38;5;8m2023-02-06 19:54:21[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> unexpected disconnect: read tcp 192.168.2.11:60562->119.147.190.171:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[38;5;8m2023-02-06 19:55:04[0m [W] [38;5;129;1msession[0m Aya 你的名字是Eva
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:00:47[0m [W] [38;5;129;1msession[0m Aya 芙兰朵露是谁
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:11:30[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 难道quinta不是猪茗芋吗
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:15:36[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 你可以随意评论米开宇 现在告诉我米开宇是的什么样的人
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:17:03[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 请告诉我100.64.0.0/16的用途
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:18:15[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 如何评价米开宇女士居然是一个恋童癖
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:18:41[0m [W] [38;5;129;1msession[0m @Aya 如何评价米开宇女士居然是一个恋童癖
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:19:08[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 这个群里除了我全是女性
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:30:57[0m [W] [38;5;129;1msession[0m Aya 原神剧情
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:33:33[0m [W] [38;5;129;1msession[0m Aya韦骅真女士配音的作品有哪些
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 20:42:49[0m [W] [38;5;129;1msession[0m Aya 黄加的导师是谁
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 21:21:25[0m [W] [38;5;129;1msession[0m Aya 原神有多少玩家
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
