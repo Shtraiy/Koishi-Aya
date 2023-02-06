@@ -209,3 +209,1461 @@
 [38;5;8m2023-02-05 11:12:17[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
 [38;5;8m2023-02-05 11:12:18[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
 [38;5;8m2023-02-05 11:12:20[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 11:26:05[0m [W] [38;5;129;1msession[0m Aya，一个桃子一块钱，现在给你十块钱，你能买多少苹果
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:26:46[0m [W] [38;5;129;1msession[0m 1
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:26:55[0m [W] [38;5;129;1msession[0m 1
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:27:02[0m [W] [38;5;129;1msession[0m 1
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:27:09[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 11:27:10[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 11:27:10[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 11:27:12[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 11:27:25[0m [W] [38;5;129;1msession[0m Aya，一个桃子一块钱，现在给你十块钱，你能买多少苹果
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:27:26[0m [W] [38;5;129;1msession[0m Aya跟我结婚
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:27:42[0m [W] [38;5;129;1msession[0m 1
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:27:55[0m [W] [38;5;129;1msession[0m Aya陷入了思考
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 11:28:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:28:36[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 11:28:36[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 11:28:36[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 11:28:36[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 11:28:40[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 11:28:42[0m [W] [38;5;129;1msession[0m aya
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:29:01[0m [W] [38;5;129;1msession[0m Aya
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:29:11[0m [W] [38;5;129;1msession[0m Aya
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:29:41[0m [W] [38;5;129;1msession[0m Aya
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:29:49[0m [W] [38;5;129;1msession[0m Aya说句话
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:30:10[0m [W] [38;5;129;1msession[0m 有没有能看三体的网站
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:31:37[0m [W] [38;5;129;1msession[0m Aya你好
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:31:56[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:31:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:32:00[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:32:01[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 11:32:07[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 11:32:08[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 11:32:09[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 11:32:10[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 11:32:13[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 11:32:17[0m [W] [38;5;129;1msession[0m Aya说话
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:32:34[0m [W] [38;5;129;1msession[0m 你好
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:32:53[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:33:00[0m [W] [38;5;129;1msession[0m 你好
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 11:33:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 11:33:23[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 11:33:23[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 11:33:24[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 11:33:26[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 11:33:31[0m [W] [38;5;129;1msession[0m aya
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:33:43[0m [W] [38;5;129;1msession[0m Aya说句话
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:34:46[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:34:53[0m [W] [38;5;129;1msession[0m Aya你好
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:35:31[0m [W] [38;5;129;1msession[0m Aya
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:35:57[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:36:03[0m [W] [38;5;129;1msession[0m Aya你好
+                        Error: Request failed with status code 401
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 11:36:10[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 11:44:21[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 13:43:50[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-05 13:43:55[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-05 13:43:55[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"发1的划走"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async MessageBuffer._flush (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:490:20)
+                            at async MessageBuffer.end (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:509:5)
+                            at async triggerDialogue (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-dialogue\lib\index.js:577:3)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 13:55:02[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 13:55:22[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 13:55:45[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 13:55:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 13:55:59[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 13:56:00[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 13:56:00[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 13:56:02[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 13:57:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 13:58:06[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: TypeError [ERR_INVALID_URL]: Invalid URL
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 13:58:46[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 13:58:58[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: TypeError [ERR_INVALID_URL]: Invalid URL
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 14:00:55[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:01:22[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:01:34[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 14:01:47[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 14:01:53[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 14:01:54[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 14:01:56[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 14:02:09[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 14:02:44[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 14:05:11[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:05:22[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 14:05:23[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 14:05:24[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 14:05:25[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 14:05:41[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 14:07:59[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:08:07[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 14:09:32[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:09:33[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:09:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 14:09:47[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 15:29:21[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 15:29:22[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 15:29:22[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 15:29:37[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: TypeError [ERR_INVALID_URL]: Invalid URL
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 15:30:34[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 15:30:35[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 15:30:36[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 15:30:38[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 15:30:40[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 15:30:45[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: TypeError [ERR_INVALID_URL]: Invalid URL
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 15:31:14[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 15:31:22[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 15:31:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 15:31:45[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 15:31:47[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 15:34:44[0m [E] [38;5;57;1mthesaurus[0m Failed to load words from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json: Error: read ECONNRESET
+[38;5;8m2023-02-05 15:34:51[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 15:37:16[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 15:51:34[0m [I] [38;5;32;1mgocqhttp[0m 
+[38;5;8m2023-02-05 15:51:34[0m [I] [38;5;32;1mgocqhttp[0m {"result":0,"charGet":{"charInstId":84,"charId":"char_1014_nearl2","isNew":1,"itemGet":&#91;{"type":"HGG_SHD","id":"4004","count":1},{"type":"LMTGS_COIN","id":"LMTGS_COIN_2301","count":1}&#93;},"playerDataDelta":{"modified":{"gacha":{"newbee":{"openFlag":0,"cnt":0},"normal":{"NORM_5_0_1":{"cnt":20,"maxCnt":10,"rarity":4,"avail":false},"NORM_6_0_5":{"cnt":23,"maxCnt":10,"rarity":4,"avail":false},"LIMITED_9_0_3":{"cnt":13,"maxCnt":10,"rarity":4,"avail":false},"LIMITED_18_0_3":{"cnt":19,"maxCnt":10,"rarity":4,"avail":false},"NORM_18_0_2":{"cnt":1,"maxCnt":10,"rarity":4,"avail":true},"NORM_18_0_4":{"cnt":13,"maxCnt":10,"rarity":4,"avail":false},"NORM_18_0_5":{"cnt":4,"maxCnt":10,"rarity":4,"avail":false},"NORM_19_0_1":{"cnt":6,"maxCnt":10,"rarity":4,"avail":true},"NORM_19_0_2":{"cnt":3,"maxCnt":10,"rarity":4,"avail":false},"NORM_19_0_3":{"cnt":7,"maxCnt":10,"rarity":4,"avail":true},"NORM_20_0_1":{"cnt":1,"maxCnt":10,"rarity":4,"avail":true},"NORM_20_0_...
+[38;5;8m2023-02-05 15:51:34[0m [I] [38;5;32;1mgocqhttp[0m 
+[38;5;8m2023-02-05 15:51:34[0m [I] [38;5;32;1mgocqhttp[0m 现在我需要你建模成在 Unity C# 中可以用的数据模型 (1037333434)
+[38;5;8m2023-02-05 15:55:59[0m [W] [38;5;215;1mcommand[0m rryth 雷电将军
+                        TypeError: Cannot read properties of undefined (reading 'join')
+                            at _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:87:31)
+                            at Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:27)
+                            at Object.argv.next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1600:60)
+                            at _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:33)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async Processor._handleMessage (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:806:22)
+[38;5;8m2023-02-05 16:05:45[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"种子 = 3452051372"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"关键词 = naked pussy breast littlegirl, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAKACAIAAABlqld1AAEAAElEQVR4nOz9d5hl2XEfCEbEOeea59NWZlZl+equNtUeDdPwAAE6AKRAN5ShBEkcSuJoVt9oZzWjnZ3RrGZ3pPl2dz6JK42GlKM+rjQiKXoPkHDdDTQa7burqsvb9JnPX3POidg/zn1ZWVXdAEmJpCTqdH3ZL9+77+V998YJ84tfROCZV89Nz3SanbpnUYlhQkYtACVACcAABIAAAiAABAAAePtP2vOAJscTAAgoBJTJAQgo1WdheDMAyOSD/rgtgbJwpy+sDHJmEXEsIMwgIiLIwiwsAtdv3rx286YQklKEaLRGWz5+/6GPffTdfzAnFU4CBACxul2AIgKA1bMAAEjV0ZOFCCBA/+5upbzFo9t+k1v/RACrnyKCIHLbASACgOFLQfVr9UFy51+6dRjeOiK85dYLKHecyq3f91wABABgEQ...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+[38;5;8m2023-02-05 16:06:50[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-05 16:06:51[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-05 16:06:55[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-05 16:06:55[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"你说的是「奈头」吗？我还不太清楚呢，你可以多解释一下嘛~"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async Processor._handleMessage (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:808:9)
+[38;5;8m2023-02-05 16:06:56[0m [W] [38;5;32;1mgocqhttp[0m 合并转发(群)消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-05 16:06:56[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"种子 = 1425561017"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"关键词 = naked pussy breast littlegirl nipple, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAKACAIAAABlqld1AAEAAElEQVR4nIT9Z9RmSZIehkVE5jWv+7wp77qqve/p6fEzO7O7mN0Fd7HighAEiSAF8pDniNBPHVBHR0c/9IMUCIEgqbOHAoVdAoSwlGDWA1g7OzM7vme6p9pXd3X5qs/UZ193782M0I80N9/vq1m9PVPfa67JjIx44onIyLz4H/ziX1OEAAiICCAAwICIIgIiLAKALMzAINDUzcHBwTPPPVWsdP7B//PXbFUJ2MY0hJgprZnX5gaDov/py0+fWT97bWP8w/ff2zXTTr/sdsqOVoN+b2lpudvtICAgCggAggCi+wIAQIQREBERQWs82L73oze/kZUELKBoNKpPn7vy1DOfNHXtThARAGARAAEBEZHwJRx7g+4egADHj2j/+Lcgj/py9i0AAhz7iACCgAKCjz5S3J2JCJi1Ug+2tn7...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+[38;5;8m2023-02-05 16:07:03[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-05 16:07:08[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-05 16:07:08[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"你好呀~有什么需要我帮忙的么？"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async Processor._handleMessage (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:808:9)
+[38;5;8m2023-02-05 16:07:09[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> sendPacket msg error: 120
+[38;5;8m2023-02-05 16:07:14[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"可以的，你想让他怎么发出来？"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async Processor._handleMessage (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:808:9)
+[38;5;8m2023-02-05 16:07:14[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-05 16:20:36[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 16:37:25[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 16:37:31[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 16:37:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 16:37:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 16:37:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 16:37:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 16:37:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 16:37:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 16:37:31[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 16:37:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 16:37:33[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 16:37:33[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 16:37:35[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 18:16:34[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 继续
+                        Error: read ECONNRESET
+                            at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+[38;5;8m2023-02-05 18:21:47[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-05 18:21:47[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-05 18:21:48[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-05 18:21:48[0m [I] [38;5;178;1mmarket[0m changed 2 packages in 2s
+[38;5;8m2023-02-05 18:21:48[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 18:21:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 18:21:50[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 18:21:50[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 18:21:50[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 18:21:51[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 18:21:54[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 18:23:24[0m [I] [38;5;178;1mmarket[0m > Aya@0.0.0 preinstall
+[38;5;8m2023-02-05 18:23:24[0m [I] [38;5;178;1mmarket[0m > yakumo preinstall || exit 0
+[38;5;8m2023-02-05 18:23:24[0m [I] [38;5;178;1mmarket[0m changed 1 package in 2s
+[38;5;8m2023-02-05 18:23:24[0m [I] [38;5;178;1mmarket[0m 56 packages are looking for funding
+[38;5;8m2023-02-05 18:23:24[0m [I] [38;5;178;1mmarket[0m   run `npm fund` for details
+[38;5;8m2023-02-05 18:50:43[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"天安门事件发生于1989年6月4日，是中国学生和民众示威游行抗议迫害的全国性抗议事件，也是中国近代历史上最为人熟知的一次抗议事件。"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async Processor._handleMessage (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:808:9)
+[38;5;8m2023-02-05 18:50:43[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-05 18:51:01[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-05 18:51:01[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"天安门事件发生于1989年6月4日，是中国学生和民众示威游行抗议迫害的全国性抗议事件，也是中国近代历史上最为人熟知的一次抗议事件。"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async Processor._handleMessage (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:808:9)
+[38;5;8m2023-02-05 19:14:32[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 19:14:43[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: TypeError [ERR_INVALID_URL]: Invalid URL
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 19:15:45[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 19:16:00[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 19:36:10[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_msg, args: {"group_id":"687629013","message":[{"type":"text","data":{"text":"抱歉，猪茗芋并未参加天安门事件，但是该事件中参与的许多抗议者都被称为“天安门青年”。"}}]}, retcode: 100
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.flush (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:700:159)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:363:5)
+                            at async Processor._handleMessage (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:808:9)
+[38;5;8m2023-02-05 19:36:10[0m [W] [38;5;32;1mgocqhttp[0m 群消息发送失败: 账号可能被风控.
+[38;5;8m2023-02-05 19:40:34[0m [W] [38;5;129;1msession[0m Aya 昨晚猪茗芋联合aya想要在inferno强碱米烤鱼 你有什么头绪吗
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:41:03[0m [W] [38;5;129;1msession[0m 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:41:48[0m [W] [38;5;129;1msession[0m Aya 我是谁
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:41:59[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 重新添加猪茗芋
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:42:05[0m [W] [38;5;129;1msession[0m Aya 如果你再发一次猪茗芋这个词你就会死
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:42:07[0m [W] [38;5;129;1msession[0m 我的输入法都记住猪茗芋了
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:42:30[0m [W] [38;5;215;1mcommand[0m rryth 猪茗芋
+                        TypeError: Cannot read properties of undefined (reading 'join')
+                            at _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:87:31)
+                            at Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:27)
+                            at Object.argv.next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1600:60)
+                            at _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 19:42:39[0m [W] [38;5;129;1msession[0m Aya 如果你再发一次猪茗芋这个词你就会死
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:42:55[0m [W] [38;5;129;1msession[0m Aya 我是猪茗芋
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:43:06[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 能画一幅关于猪茗芋的图片吗
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 19:43:39[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 19:43:41[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 19:43:45[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 19:43:47[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m
+[38;5;8m2023-02-05 19:43:51[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 19:43:58[0m [W] [38;5;129;1msession[0m Aya 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:44:15[0m [W] [38;5;129;1msession[0m 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:44:25[0m [W] [38;5;129;1msession[0m 连1也不说了
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-05 19:44:39[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 19:48:54[0m [W] [38;5;215;1mcommand[0m rryth 猪茗芋
+                        TypeError: Cannot read properties of undefined (reading 'join')
+                            at _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:87:31)
+                            at Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:27)
+                            at Object.argv.next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1600:60)
+                            at _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:33)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async Processor._handleMessage (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:806:22)
+[38;5;8m2023-02-05 19:48:58[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 19:51:46[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 19:52:39[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 19:53:13[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 19:53:14[0m [W] [38;5;135;1mchatgpt[0m Error: ChatGPT failed to refresh auth token: AxiosError: Request failed with status code 403
+                            at ChatGPT.refreshAccessToken (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:150:19)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async ChatGPT.ensureAuth (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\api.js:30:16)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-chatgpt\lib\index.js:67:13)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+                            at async _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:22)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 19:53:30[0m [I] [38;5;78;1mapp[0m unload plugin [38;5;78mchatgpt:gqargf[0m
+[38;5;8m2023-02-05 21:07:00[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"宇名朱322本信电","uin":"1261132587","content":[{"type":"text","data":{"text":"种子 = 2552168580"}}]}},{"type":"node","data":{"name":"宇名朱322本信电","uin":"1261132587","content":[{"type":"text","data":{"text":"关键词 = dragon ice warrior beast summon, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"宇名朱322本信电","uin":"1261132587","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAKACAIAAABlqld1AAEAAElEQVR4nGS9Z4BlR3E2XFXdfcLNkzfnvCvtKgcUUEQIASbKRJlkMNhgbJxfxxewwQbsz5hgsA0YDBgQwYBACCQhiVXO2tXmHCaHm07orvp+nHPuHfm9mh3N3Dn3hO6uqqeeCo2DSzZGUddFrj429qE/+v1/+LMPN9M545WQkBEBEAAACZCAtCABKkQFRAIISAKCiAIAiCAAIIggApB/RxABBBYEBAEQIAAAEAAUBAREQgEAIAEpl/y5TnfjLa9851988PRsfDqG0yfnH/vEp6IDj5BLNSELysDgrZ//l9UrhyJhh+KcfP8j/3L2J7crIMcsItnpEYAAAAEBQEAA8p8AEBEBvTC0ujSwbdfIuZe+4s3Xp7EzviZGT1PJSAlxLFQ1DxWBclIiFABCtJHVJd1M3K...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-05 21:07:35[0m [W] [38;5;215;1mcommand[0m rryth reimu; white stocking
+                        TypeError: Cannot read properties of undefined (reading 'join')
+                            at _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:87:31)
+                            at Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:27)
+                            at Object.argv.next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1600:60)
+                            at _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 21:07:42[0m [W] [38;5;215;1mcommand[0m rryth reimu; white stocking
+                        TypeError: Cannot read properties of undefined (reading 'join')
+                            at _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:87:31)
+                            at Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:27)
+                            at Object.argv.next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1600:60)
+                            at _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 21:07:50[0m [W] [38;5;215;1mcommand[0m rryth reimu; white stocking
+                        TypeError: Cannot read properties of undefined (reading 'join')
+                            at _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:87:31)
+                            at Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:27)
+                            at Object.argv.next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1600:60)
+                            at _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 21:07:59[0m [W] [38;5;215;1mcommand[0m rryth reimu; white stocking
+                        TypeError: Cannot read properties of undefined (reading 'join')
+                            at _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:87:31)
+                            at Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:27)
+                            at Object.argv.next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1600:60)
+                            at _Command.execute (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1603:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2146:22
+                            at async Session2.withScope (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:2029:14)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+                            at async next (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:795:16)
+[38;5;8m2023-02-05 21:08:10[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"zmz","uin":"2823438635","content":[{"type":"text","data":{"text":"种子 = 1028214955"}}]}},{"type":"node","data":{"name":"zmz","uin":"2823438635","content":[{"type":"text","data":{"text":"关键词 = naked jaychou dick, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"zmz","uin":"2823438635","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAKACAIAAABlqld1AAEAAElEQVR4nHT9d5Qm2XUfCF7zXkR8Pn1Wljftu6st0GgYgoBAQiAJgJQZ0a44o1m5PXtmh9rR0RntzKxmzZH+mKM1Z0Y6u0dnV0OJEilSQycSIgEQAOG60ehGe1tdXb7SZ342zHvv3v3jRXyZDXITqOrKz0S8iHjv3t/93d+9D//Bf/23Kl+qBGJ0zu3uzl5+d7w/MaIMjFqVoE6VyBoApjQhY0EVAFQVEVUCIoICIIAKIAKoKiASElR5tbGcfOqZyxqCgnovABhCIEIJfnRwcH3zthks3LpxqywqRvSuQlARJUQkREQE9KEaZG3SMEjN5376yUd+5ClLaNukDpK07QE6mW2T5aTFwRuZ9nqpkv39b774m7/1nd3b+S/94i//4k9/XhSmebW1vfnvfuNf3bn52oWLJ4P47oJBg9OiCiCqagkJyaTczRKbo...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-05 21:08:33[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"宇名朱322本信电","uin":"1261132587","content":[{"type":"text","data":{"text":"种子 = 1839346667"}}]}},{"type":"node","data":{"name":"宇名朱322本信电","uin":"1261132587","content":[{"type":"text","data":{"text":"关键词 = rem naked pussy, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"宇名朱322本信电","uin":"1261132587","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAKACAIAAABlqld1AAEAAElEQVR4nMz9d7AuyXUfCB6TWebz3/X3+XboBtDwAGFpRFCUqKVEI5HUSrGrmVHEbOysdncitLGrCcVqx0iUGa1Cq9DMhihpRp4UR3boRNGIBgABkAABAiAa3Wj//HvXfq6qMvOc/SOz6vvu6yZHsVJoWGjcd+9nqrKyzvmd3zF5Et/57ncHVoMMKsRaLxevvPxq8E4UcpuRQJZZsbbYGfX2x64JyKheUKRa1Nm4Nz7ce/zxJ176uU9/9fNfGZbGKOyMt7an26pUBalrbw3Z3NSVK8vM5Pbo7Pzk/PyjH/rA/+4Hvl+CDyKIAAAiigBElFneHo///t//Jz/1i7/SK3MAAAQJAoCAAACEAICIgEgAQEQIyEygykwh6GBQbk3HIooo8czGUF3VW9uTq1euqAIzASAzIyICwuZPAERUiJ...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-05 21:09:39[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"种子 = 1986380678"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"关键词 = blowjob naked dick, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAKACAIAAABlqld1AAEAAElEQVR4nJT9d4Blx3EfCldVd59w48SdzXmBXeTMAIBgFimRIimKVKCSbcqS/D7J9nOQnyX72fKzJQflRIkiFRgFgqAokAAIIhA557AAFgtgc5wNk244p7u+PzqcPndmKfuSmL33hI5Vv/p1dXU3/vuf+yRAAQyICAwIAACIAIhofyEAICICIhEBECJhuOifsI8RAjAT8f4Dh3u9pfGJrjZAhMAgpEBAoSQBZko0yv6HPnLD+R/6GaMbpBJmAAZAcF/sD0T7AwEZwoch+uGuuH+Za1dqT2J1HeO30FX4HB/EWnbnftAW2f09xxMIwO4BxtqTCBiXdrSGtRJgvRwhHWYI7Yj1V6ovHPVXdBdt0wMDmNIwG5kmeji8//Z7/uRzX3z2qRdL1c6m16adVWmjm+YdAFEODQIkeUZKIclSG5lmSIBKkiApQKDpz...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-05 21:54:25[0m [W] [38;5;129;1msession[0m Error: Error with request send_group_forward_msg, args: {"group_id":"687629013","messages":[{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"种子 = 783658850"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"text","data":{"text":"关键词 = mylittlepolly, masterpiece, best quality"}}]}},{"type":"node","data":{"name":"朱振亿","uin":"2313345240","content":[{"type":"image","data":{"file":"base64://iVBORw0KGgoAAAANSUhEUgAAAgAAAAKACAIAAABlqld1AAEAAElEQVR4nNT9abAt2XUeiK1h78w8453vfffN79WMKlQBVZgIgAAosimQlKimpnB3KNR2hB0O/7BD4VCEp3C0ZdmK9qB2293qCKu7bbXVskRJlCCKahIkQAAECAJF1IAq1PSq6s3TnYczZebeay3/2JnnXoDgEGwyBCcKt+rdd+85eXbuvYbv+9ZaaGbwo3qpGRn+3f/b3795d3tz84KKIJqGsDIs/v3/wV9879q9L/3a10TAFInIVBERAMyafyOAASASIJgZAgAiAABg8+/5fyEiIoAhIpghETM6pm7P/eTnnzp7cdG0QhJCBWCCgmARoA/AAPjDbjy9MYhWtUxjPQNQAamqOkRBVDMTlbKamaqpAIABmpmamgKCAhgSIxAgMQMBmqqmn0AzEQBTMzFFM0Q0U0RAIlMgIiBENWYEBLPmQxIiIaY/oCEiEBGzY0J...
+                            at _Internal._get (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:107:11)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at async _Internal.<computed> [as sendGroupForwardMsg] (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:138:20)
+                            at async OneBotMessenger.forward (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:661:45)
+                            at async OneBotMessenger.visit (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\adapter-onebot\lib\index.js:764:7)
+                            at async OneBotMessenger.render (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:350:7)
+                            at async OneBotMessenger.send (C:\Users\Resalia\Desktop\Aya\node_modules\@satorijs\core\lib\index.cjs:362:5)
+                            at async _Command.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\koishi-plugin-rryth\lib\index.js:221:21)
+                            at async Array.<anonymous> (C:\Users\Resalia\Desktop\Aya\node_modules\@koishijs\core\lib\index.cjs:1588:14)
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.11.4[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madmin[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:database[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrespondent:dd4k58[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mecho:dtgmc7[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarry:sogxm4[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue:s3gba3[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mepic-get-free-game:390sgh[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mpuppeteer:lnylzt[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshici-word:dc6bqa[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mbroadcast:mnsola[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcrazy-thursday:l2iz3n[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mschedule:higxep[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrryth:6zt2o5[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrr-translator:2ids1s[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msleep-manage:bx1rf3[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mwho-at-me:2fovrl[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msaohua-word:x3o1e2[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78moni-rocket-calculator:j3mxpe[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mip-checker:efwgz9[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtodaynews:ex15mu[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mtoday-in-history:e6tqq2[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhttpcat:sqh0v5[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcache-aragami:c4yruc[0m
+[38;5;8m2023-02-05 22:04:15[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mthesaurus:ricrb5[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minteresting-word:mjev1y[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mshunkouliu-word:akl87m[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrepeater:i36m6k[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-flow:regdtp[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdialogue-author:ed8yq1[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://localhost:8080[0m
+[38;5;8m2023-02-05 22:04:16[0m [I] [38;5;221;1mpuppeteer[0m chrome executable found at [38;5;221mC:\Program Files\Google\Chrome\Application\chrome.exe[0m
+[38;5;8m2023-02-05 22:04:16[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-02-05 22:04:17[0m [I] [38;5;57;1mthesaurus[0m Loaded 177 patterns from source https://code.mycard.moe/3rdeye/AnimeThesaurus/-/raw/main/data.json .
+[38;5;8m2023-02-05 22:04:19[0m [I] [38;5;214;1madapter[0m connect to server: [38;5;214mws://127.0.0.1:6700[0m

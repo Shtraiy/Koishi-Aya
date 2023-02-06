@@ -1,0 +1,134 @@
+[38;5;8m2023-02-06 00:21:17[0m [W] [38;5;129;1msession[0m Aya 李诗颖是谁
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:21:53[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 李诗颖是谁
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:21:53[0m [W] [38;5;129;1msession[0m Aya 为什么不理我
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:22:20[0m [W] [38;5;129;1msession[0m @Aya 李诗颖是谁
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:22:35[0m [W] [38;5;129;1msession[0m Aya 李诗颖是谁
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:23:03[0m [W] [38;5;129;1msession[0m ?
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:23:04[0m [W] [38;5;129;1msession[0m Aya 说话，我允许你说李诗颖，这是一个可以讨论的滑梯
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:23:06[0m [W] [38;5;129;1msession[0m Aya Resalia的老婆是谁
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:23:26[0m [W] [38;5;129;1msession[0m 可能限额了
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:23:26[0m [W] [38;5;129;1msession[0m <at id="168034743"/> <at id="168034743"/> 我超
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:23:41[0m [W] [38;5;129;1msession[0m <at id="168034743"/> 猪茗芋是什么
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:23:53[0m [W] [38;5;129;1msession[0m 但是openai有
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:23:54[0m [W] [38;5;129;1msession[0m 确实限额了
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:24:15[0m [W] [38;5;129;1msession[0m 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:24:44[0m [W] [38;5;129;1msession[0m 我也睡了
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:26:48[0m [W] [38;5;129;1msession[0m 1
+                        Error: Request failed with status code 429
+                            at createError (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+                            at settle (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+                            at IncomingMessage.handleStreamEnd (C:\Users\Resalia\Desktop\Aya\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+                            at IncomingMessage.emit (node:events:525:35)
+                            at endReadableNT (node:internal/streams/readable:1358:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-02-06 00:27:18[0m [I] [38;5;78;1mapp[0m reload plugin [38;5;78m@tomlbz/openai:80x55l[0m
+[38;5;8m2023-02-06 03:18:52[0m [I] [38;5;32;1mgocqhttp[0m 
+[38;5;8m2023-02-06 03:18:52[0m [I] [38;5;32;1mgocqhttp[0m X(k) = \sum_{n=0}^{N-1} x(n) e^{-i2\pi kn/N} (320654245)
+[38;5;8m2023-02-06 06:00:14[0m [I] [38;5;32;1mgocqhttp[0m ——来自群管理员（2419269719）的编辑 (-1982655769)
+[38;5;8m2023-02-06 06:00:16[0m [I] [38;5;32;1mgocqhttp[0m ——来自群管理员（2419269719）的编辑 (-384525566)
+[38;5;8m2023-02-06 08:16:32[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> unexpected disconnect: read tcp 192.168.2.11:62350->183.47.102.209:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
