@@ -113,11 +113,11 @@ plugins:
   repeater:i36m6k: {}
   dialogue-flow:regdtp: {}
   dialogue-author:ed8yq1: {}
-  openchat:nov28q:
+  ~openchat:nov28q:
     endPoint: http://127.0.0.1:8006/chat
     watingMsg: false
   '@tomlbz/openai:80x55l':
-    apikey: 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
+    apikey: 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
     botname: Aya
     botIdentity: 我是由主人Resalia创造的的智能居家仿生女仆Aya
     sampleDialog:
@@ -127,15 +127,26 @@ plugins:
       今天好忙啊: 加油，我会一直陪着你的(ง •_•)ง
     ntokens: 512
     randomReplyFrequency: 0.3
-    presencePenalty: 1
-    textMemoryLength: 6
-    frequencyPenalty: 1
-    summaryMemoryLength: 6
-    topicMemoryLength: 6
+    presencePenalty: 2
+    textMemoryLength: 8
+    frequencyPenalty: 1.5
+    summaryMemoryLength: 8
+    topicMemoryLength: 16
+    model: text-davinci-003
+    temperature: 0.28
   ~chatgpt:gqargf:
     proxyAgent: ''
     sessionToken: >-
       eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..XUYR89gnCL9iULl4.Oqz7iKdT1mQ8EBvBmC5ArT15txxOQfi7omb0LBRpctf0SkccqRz4dudv6YXmNHIs0l-PvElRibLXFuDy9NY8FiLfVUhZf6wLpBgJ7sog02eRFViqlKwhCr0_RPFYmvf6-_6d69MUSlzRwbhwHNBr-WPTL09ea23hu-tcvcsh2cOsFCnkA6F_WB1aQhtGlrSDmtQzP6OWnkkSNw7X_cJWfbaJ9PJbR8YRMXUrSXdhQIM-LlInx7eJ6pORglQVun2qr_MIIhWwrVh4ZeySEh0xknfDmKYINPNtdIw1HUcSMi_oF0rbhT51PXi2c9eQZJ86NbbuMmUCUrKvlXQ3_t1u77fHGAGBtCps1KCa4W6VauS_XPWbinWv96zv8nldwaS8pGY9l0_Q-6HPZCsBHZ-NJUHRDcIEwNpD8Zw_SJdXRiWD1N9-nV-MZ7LZfiNGcX5aH_VL4vWOmswnqKzzIgS2lUb5v4wsUsPhuCALqZ1M27by1WXmlZvoowDySZOzyHrjFOLkLuKHmsrapk7gc_fDygIeoxh4FXc92--VPDfcdlyf8KsaD-qQa8tVhdw2IQOZdrmNBEtN8o2zA2MJdONFFbnqV57c-7kmRbZ_E1tp4yU_5-qf12NljhYgN_352xLrIiartY_cqyy7pS8BQ9_Cb9h51ha3G3wRiX6cGvkzsIFitliMAXm_5v9C9BdeYU4QNw8BykX3Y1duGLBWEztnuPrRmWFPETPYk-pm0YvTSx_wbdbrfKQW17Gzg5nrkJwHhjec6w-MqdjFwTh1g8a4K2sQTYasEgPNejt71Xo5uDlZgqDchjzcl-3aSWN_Qx9nM1Uvi8ARnOZg7wBl8I_lB6SonLAOTQgUoX5ECMnAK88nX0oRPBRQXQY2vbql0StV1ozRxr-WQ7XolfhnwOUA1Do4Jmt47D-PWPK3aFaaEKl9mGmpB2vY7eaxqGNapTE1zDBusB3TXLd1Ekflc1vTHsu8g5fKyVuJkUs7qCtM_1MxRRi47uzMCn2qTKjd9G2BfzWtDZZlfFE66vua6x8D1mqRF0u3N_EtF3eAEt9Rm03vlt1QMN6bKmSICyC1e8NijmZ2ysWGltuN73JktNfJuyWq5n28X-SBvHVyqIMvwVl-e_V4mfvniI7_IsWRFgR8RKBff33j1GxOYuUkcgwl7SETdJybv9cDfuDKVnYcNp7ACwclhd3iE1QSKECnfn5YCwGJSqWaIdRgQqkOhtzL7hwVxzaV0eR60XtKCncPjoCwzLcw0-RnoqocZ7mQTpDVs0lTqnpowmZX7krQoHy_rx_c91r_cw7_cVvE6bYrwoM9j5IIYmtzWHOVnTYFghAdzPRxcFhp0EH2485yR37x9-oEyvcU_2GBC4G367FwwTWEUzds7yzwzfBEEAKrYagkdQfPLJczu0_oHitOU-VpDCA62iAYIAASteoMxfV-3Rhz1ZoboIdJy93xSCEaGmJjDVb6vbbDwgZQzY2YJlhYnZ_0s6SSDLk9yIySO-1mH2RmSyp9TzlurhWbVbkMgGzoo4n_BVD_lrvhF3wu2MRv1nmrjGLB6MM6oNZJhV2GXk91RjeCN-dEnzcW--Qc1wAHPWD_uIpNRxAlT9V2zoTz5OdMZOFJZehUnWJQThN7F1x7YRbXWMR7IM_zVunbrO2mRVaaIBymFBn9xcxXCpAzh7zVArBjWiQhxfCqNVvndIy5seYaYarf-u65L0XSurH_gdyimGd2_ngvQJYOKWt7tSI8z1RYsqSfrlxwIX7BgiJH4dJRzOAJf_unnsf5tUcnZUM6x0s6RCzv6dPVpxiYn6-1pZ9qOZyG7Qndm69JnMuFysUCHwWn3o6LIUnFnGB1T95SUqi8tNJh7VBy0C_67MXUH9e_QeykDPvnbdz-98uBMPoX_Hs6w_MCOQGpWK8UpbAQk8U-kJFPpq4f9_aS1svgOWNrP7HFRXoQ6cyvzEYq1Wj1veXF_Rnmhp6QLWU41UXQld4I-rtQ0g_BabD-VyKQ5iLJCsGPNkoAtuKEJKnf_Tvti5jXgpShcQF9REAFM6oqosMsABf4cOWg2yjUUlmKDYyp1o_Lloj_NRgHruHGKTsqLzPyXN3-c3B4wAQvgdjE-JyT3eKyoiA770L8fF1muisVrj1TE1DVxVHIqiOkEzoWcLdZNMgt4RE5nvrOKXMguFro8mNGKaQ2BAHsvNwF7sjQyQvpUXag13fru0g7-N-_-dKSkCsat8UIh3seE1pndVZ-uLHc4prxQcS3fkOmuMvsA0bc9UcSj81O-X3bNoZ8HrGu9T1phycVnZULrwZHM2TKlzcMleu9X7F55RgnmqpWf9khSkUc23_iqdhgel5yarm2QcJyUeHsxX4KFD3m8StakrKUpsieLa7ZrK9Je227nhZOqBizmZYs-XDRE4frtWdoi0D2apVBsukZ1kozsRp4qLuCf1PwQy425R1TbO2gZ40wzxe9d4Bpe2bjbTMEneSipNQu9ADxWcVuOBr7LdgAVCuj4V65nnN-lnToQryXn7LIYiythZvyhdhV2sHGVPpcLFP4uDekq3t21pebo9fY818EYz7KcCxpXA.A6AvPg7IW_NumPzpdLa35w
     cloudflareToken: >-
       CcA.yj34nrzKS4stjDaHKMrZOE.OtObwpYQD3iBg144-1675595526-0-1-75735efa.2030cf6a.2272011a-160
-  ~openchat:x7yb3s: {}
+  ~openchat:x7yb3s:
+    endPoint: http://0.0.0.0:8006/chat
+  ~realtime-vote:alf1jw: {}
+  ~davinci-003:n2dcb1:
+    alias:
+      - aya
+      - Aya
+    key: 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
+    authority: 0
+    usage: 100
